@@ -1,3 +1,6 @@
-La 1 HD,La 1 Super UHD 4k,https://media.tvup.cloud/canales/la1.png
-La 2,La 2 Super Full HD 8k
-Antena 3 HD,Antena 3 Super UHD 4k,https://media.tvup.cloud/canales/antena3.png
+UK | TNT Sports 1,TNT Sports 1
+UK | TNT Sports 2,TNT Sports 2
+UK | TNT Sports 3,TNT Sports 3
+UK | Premier Sports 1, Premier Sports 1
+UK | Premier Sports 2, Premier Sports 2
+
