@@ -3,4 +3,13 @@ UK | TNT Sports 2,TNT Sports 2
 UK | TNT Sports 3,TNT Sports 3
 UK | Premier Sports 1, Premier Sports 1
 UK | Premier Sports 2, Premier Sports 2
-
+UK | Sky Sport Arena, Sky Sport Arena
+UK | Sky Sport F1, Sky Sport F1
+UK | Sky Sport Football, Sky Sport Football
+UK | Sky Sport Main Event, Sky Sport Main Event
+UK | Sky Sport Mix, Sky Sport Mix
+UK | Sky Sport Premier League, Sky Sport Premier League
+beIN SPORTS XTRA ñ, beIN SPORTS XTRA ñ
+FR | beIN SPORTS 1, beIn Sports 1
+FR | beIN SPORTS 2, beIn Sports 2
+FR | beIN SPORTS 3, beIn Sports 3
