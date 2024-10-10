@@ -13,3 +13,23 @@ beIN SPORTS XTRA ñ, beIN SPORTS XTRA ñ
 FR | beIN SPORTS 1, beIn Sports 1
 FR | beIN SPORTS 2, beIn Sports 2
 FR | beIN SPORTS 3, beIn Sports 3
+DE | SPORT1+, Sport1+
+DE | SPORTDIGITAL FUSSBALL, Sportdigital Fussball
+DE | Sky Sport 1, Sky Sport 1 Alemania
+DE | Sky Sport Austria, Sky Sport Austria 1
+DE | Sky Sport Bundesliga, Sky Sport Bundesliga
+DE | Sky Sport F1, Sky Sport F1 Alemania
+PT | DAZN 1, Dazn 1 Portugal
+PT | DAZN 2, Dazn 2 Portugal
+PT | DAZN 3, Dazn 3 Portugal
+PT | DAZN 4, Dazn 4 Portugal
+PT | DAZN 5, Dazn 5 Portugal
+PT | DAZN 6, Dazn 6 Portugal
+PT | Sport TV +, Sport TV + Portugal
+PT | Sport TV 1, Sport TV 1 Portugal
+PT | Sport TV 2, Sport TV 2 Portugal
+PT | Sport TV 3, Sport TV 3 Portugal
+PT | Sport TV 4, Sport TV 4 Portugal
+PT | Sport TV 5, Sport TV 5 Portugal
+PT | Sport TV 6, Sport TV 6 Portugal
+PT | Sport TV NBA, Sport TV NBA Portugal
