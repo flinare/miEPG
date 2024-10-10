@@ -1,35 +1,9 @@
-UK | TNT Sports 1,TNT Sports 1
-UK | TNT Sports 2,TNT Sports 2
-UK | TNT Sports 3,TNT Sports 3
-UK | Premier Sports 1, Premier Sports 1
-UK | Premier Sports 2, Premier Sports 2
-UK | Sky Sport Arena, Sky Sport Arena
-UK | Sky Sport F1, Sky Sport F1
-UK | Sky Sport Football, Sky Sport Football
-UK | Sky Sport Main Event, Sky Sport Main Event
-UK | Sky Sport Mix, Sky Sport Mix
-UK | Sky Sport Premier League, Sky Sport Premier League
-beIN SPORTS XTRA ñ, beIN SPORTS XTRA ñ
-FR | beIN SPORTS 1, beIn Sports 1
-FR | beIN SPORTS 2, beIn Sports 2
-FR | beIN SPORTS 3, beIn Sports 3
-DE | SPORT1+, Sport1+
-DE | SPORTDIGITAL FUSSBALL, Sportdigital Fussball
-DE | Sky Sport 1, Sky Sport 1 Alemania
-DE | Sky Sport Austria, Sky Sport Austria 1
-DE | Sky Sport Bundesliga, Sky Sport Bundesliga
-DE | Sky Sport F1, Sky Sport F1 Alemania
-PT | DAZN 1, Dazn 1 Portugal
-PT | DAZN 2, Dazn 2 Portugal
-PT | DAZN 3, Dazn 3 Portugal
-PT | DAZN 4, Dazn 4 Portugal
-PT | DAZN 5, Dazn 5 Portugal
-PT | DAZN 6, Dazn 6 Portugal
-PT | Sport TV +, Sport TV + Portugal
-PT | Sport TV 1, Sport TV 1 Portugal
-PT | Sport TV 2, Sport TV 2 Portugal
-PT | Sport TV 3, Sport TV 3 Portugal
-PT | Sport TV 4, Sport TV 4 Portugal
-PT | Sport TV 5, Sport TV 5 Portugal
-PT | Sport TV 6, Sport TV 6 Portugal
-PT | Sport TV NBA, Sport TV NBA Portugal
+ESPN.PREMIUM.ar, ESPN Premium Argentina
+FOX.Sports.Premium.MEXICO.mx, Fox Sports Premium Mejico
+Ziggo.Sport.nl, Ziggo 1 Holanda
+Ziggo.Sport.2.nl, Ziggo 2 Holanda
+Ziggo.Sport.3.nl, Ziggo 3 Holanda
+Ziggo.Sport.4.nl, Ziggo 4 Holanda
+Ziggo.Sport.5.nl, Ziggo 5 Holanda
+Ziggo.Sport.6.nl, Ziggo 6 Holanda
+
