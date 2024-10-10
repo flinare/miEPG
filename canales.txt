@@ -10,7 +10,7 @@ ESPN.1.nl, ESPN Holanda
 ESPN.2.nl, ESPN 2 Holanda
 ESPN.3.nl, ESPN 3 Holanda
 ESPN.4.nl, ESPN 4 Holanda
-Digi.Sport.2.HD.ro, Digi 2 Rumania
+Digi.Sport.2.HD.ro, Digi 2 Rumania, https://imgbin.com/png/m5t1Rh2X/digi-sport-3-hd-sport1-digi-tv-png
 DAZN.1.de, DAZN 1 Alemania
 DAZN.2.de, DAZN 2 Alemania
 ORF.SPORT.+.de, ORF Sport+ Alemania
