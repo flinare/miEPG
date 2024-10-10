@@ -16,8 +16,8 @@ DAZN.2.de, DAZN 2 Alemania
 ORF.SPORT.+.de, ORF Sport+ Alemania
 ESPN.HDTV.(Dish).(ESPNHD).us, ESPN Usa, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png
 ESPN2.HDTV.(Dish).(ESPN2HD).us, ESPN 2 Usa, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png
-Fox.Sports.1.HDTV.(FS1HD).us, Fox Sports 1 Usa
-Fox.Sports.2.HDTV.(FS2HD).us, Fox Sports 2 Usa
+Fox.Sports.1.HDTV.(FS1HD).us, Fox Sports 1 Usa, https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_1_10s.png
+Fox.Sports.2.HDTV.(FS2HD).us, Fox Sports 2 Usa, https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_2.png
 Sky.Sport.Austria.1.HD.de, Sky Sport Austria 1
 Sky.Sport.Austria.2.HD.de, Sky Sport Austria 2
 Sky.Sport.Austria.3.HD.de, Sky Sport Austria 3
