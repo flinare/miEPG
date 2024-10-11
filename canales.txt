@@ -13,15 +13,17 @@ Digi.Sport.2.HD.ro,Digi 2 Rumania,https://imgbin.com/png/m5t1Rh2X/digi-sport-3-h
 DAZN.1.de,DAZN 1 Alemania,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png
 DAZN.2.de,DAZN 2 Alemania,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png
 ORF.SPORT.+.de,ORF Sport+ Alemania
-ESPN.HDTV.(Dish).(ESPNHD).us,ESPN Usa,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png
-ESPN2.HDTV.(Dish).(ESPN2HD).us,ESPN 2 Usa,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png
+ESPN.HDTV.(Dish).(ESPNHD).us,ESPN Usa,https://www.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png
+ESPN2.HDTV.(Dish).(ESPN2HD).us,ESPN 2 Usa,https://www.thesportsdb.com/images/media/channel/logo/e0jjaa1660762501.png
 Fox.Sports.1.HDTV.(FS1HD).us,Fox Sports 1 Usa,https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_1_10s.png
 Fox.Sports.2.HDTV.(FS2HD).us,Fox Sports 2 Usa,https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_2.png
-Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1
-Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2
-Sky.Sport.Austria.3.HD.de,Sky Sport Austria 3
-Sky.Sport.Austria.4.HD.de,Sky Sport Austria 4
+Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,https://www.thesportsdb.com/images/media/channel/logo/0pvnal1629913964.png
+Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,https://www.thesportsdb.com/images/media/channel/logo/gav8g21629913985.png
+Sky.Sport.Austria.3.HD.de,Sky Sport Austria 3,https://www.thesportsdb.com/images/media/channel/logo/tnjg4t1629914011.png
+Sky.Sport.Austria.4.HD.de,Sky Sport Austria 4,https://www.thesportsdb.com/images/media/channel/logo/sw1mbx1629914034.png
 ORF.SPORT.+.de,ORF Sport
 SPORT1+.de,Sport 1+
 SPORT1.de,Sport1
+Nova.Sport.1.cz,Nova Sport 1
+Nova.Sport.2.cz,Nova Sport 2
 
