@@ -26,4 +26,3 @@ SPORT1+.de,Sport 1+
 SPORT1.de,Sport1
 Nova.Sport.1.cz,Nova Sport 1,https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png
 Nova.Sport.2.cz,Nova Sport 2,https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png
-
