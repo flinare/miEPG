@@ -1,5 +1,5 @@
 ESPN.PREMIUM.ar,ESPN Premium Argentina,https://es.wikipedia.org/wiki/Archivo:ESPN_Premium_logo.png
-FOX.Sports.Premium.MEXICO.mx,Fox Sports Premium Mejico
+FOX.Sports.Premium.MEXICO.mx,Fox Sports Premium Mejico,https://es.m.wikipedia.org/wiki/Archivo:Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png
 Ziggo.Sport.nl,Ziggo 1 Holanda
 Ziggo.Sport.2.nl,Ziggo 2 Holanda
 Ziggo.Sport.3.nl,Ziggo 3 Holanda
