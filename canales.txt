@@ -10,8 +10,8 @@ ESPN.2.nl,ESPN 2 Holanda
 ESPN.3.nl,ESPN 3 Holanda
 ESPN.4.nl,ESPN 4 Holanda
 Digi.Sport.2.HD.ro,Digi 2 Rumania,https://imgbin.com/png/m5t1Rh2X/digi-sport-3-hd-sport1-digi-tv-png
-DAZN.1.de,DAZN 1 Alemania
-DAZN.2.de,DAZN 2 Alemania
+DAZN.1.de,DAZN 1 Alemania,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png
+DAZN.2.de,DAZN 2 Alemania,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png
 ORF.SPORT.+.de,ORF Sport+ Alemania
 ESPN.HDTV.(Dish).(ESPNHD).us,ESPN Usa,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png
 ESPN2.HDTV.(Dish).(ESPN2HD).us,ESPN 2 Usa,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png
