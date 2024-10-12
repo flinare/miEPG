@@ -19,8 +19,6 @@ Fox.Sports.1.HDTV.(FS1HD).us,Fox Sports 1 Usa,https://es.m.wikipedia.org/wiki/Ar
 Fox.Sports.2.HDTV.(FS2HD).us,Fox Sports 2 Usa,https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_2.png
 Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,https://www.thesportsdb.com/images/media/channel/logo/0pvnal1629913964.png
 Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,https://www.thesportsdb.com/images/media/channel/logo/gav8g21629913985.png
-Sky.Sport.Austria.3.HD.de,Sky Sport Austria 3,https://www.thesportsdb.com/images/media/channel/logo/tnjg4t1629914011.png
-Sky.Sport.Austria.4.HD.de,Sky Sport Austria 4,https://www.thesportsdb.com/images/media/channel/logo/sw1mbx1629914034.png
 ORF.SPORT.+.de,ORF Sport Alemania
 SPORT1+.de,Sport 1+ Alemania
 SPORT1.de,Sport1 Alemania
