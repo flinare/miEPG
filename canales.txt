@@ -4,7 +4,6 @@ Ziggo.Sport.nl,Ziggo 1 Holanda
 Ziggo.Sport.2.nl,Ziggo 2 Holanda
 Ziggo.Sport.3.nl,Ziggo 3 Holanda
 Ziggo.Sport.4.nl,Ziggo 4 Holanda
-Ziggo.Sport.5.nl,Ziggo 5 Holanda
 ESPN.1.nl,ESPN Holanda
 ESPN.2.nl,ESPN 2 Holanda
 ESPN.3.nl,ESPN 3 Holanda
