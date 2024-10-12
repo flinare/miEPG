@@ -1,102 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 12/10/2024 13:39" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 12/10/2024 17:19" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Ziggo 1 Holanda">
     <display-name>Ziggo 1 Holanda</display-name>
-    <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/99.png" />
     <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/99.png" />
   </channel>
   <channel id="Ziggo 2 Holanda">
     <display-name>Ziggo 2 Holanda</display-name>
     <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/474.png" />
-    <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/474.png" />
   </channel>
   <channel id="Ziggo 3 Holanda">
     <display-name>Ziggo 3 Holanda</display-name>
-    <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/420.png" />
     <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/420.png" />
   </channel>
   <channel id="Ziggo 4 Holanda">
     <display-name>Ziggo 4 Holanda</display-name>
     <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/490.png" />
-    <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/490.png" />
   </channel>
   <channel id="Ziggo 5 Holanda">
     <display-name>Ziggo 5 Holanda</display-name>
-    <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/491.png" />
     <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/491.png" />
   </channel>
   <channel id="ESPN Holanda">
     <display-name>ESPN Holanda</display-name>
     <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/148.png" />
-    <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/148.png" />
   </channel>
   <channel id="ESPN 2 Holanda">
     <display-name>ESPN 2 Holanda</display-name>
-    <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/468.png" />
     <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/468.png" />
   </channel>
   <channel id="ESPN 3 Holanda">
     <display-name>ESPN 3 Holanda</display-name>
     <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/469.png" />
-    <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/469.png" />
   </channel>
   <channel id="ESPN 4 Holanda">
     <display-name>ESPN 4 Holanda</display-name>
-    <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/470.png" />
     <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/470.png" />
   </channel>
   <channel id="Digi 2 Rumania">
     <display-name>Digi 2 Rumania</display-name>
     <icon src="https://i.imgur.com/KWDUi3v.png" />
-    <icon src="https://i.imgur.com/KWDUi3v.png" />
   </channel>
   <channel id="DAZN 1 Alemania">
     <display-name>DAZN 1 Alemania</display-name>
-    <icon src="https://i.imgur.com/alzVFEm.png" />
     <icon src="https://i.imgur.com/alzVFEm.png" />
   </channel>
   <channel id="DAZN 2 Alemania">
     <display-name>DAZN 2 Alemania</display-name>
     <icon src="https://i.imgur.com/m2YgWg7.png" />
-    <icon src="https://i.imgur.com/m2YgWg7.png" />
   </channel>
   <channel id="ORF Sport+ Alemania">
     <display-name>ORF Sport+ Alemania</display-name>
     <icon src="https://images.tvtoday.de/sender/small/orfsp.png" />
-    <icon src="https://images.tvtoday.de/sender/small/orfsp.png" />
-  </channel>
-  </channel>
-  </channel>
-  </channel>
   </channel>
   <channel id="Sky Sport Austria 1">
     <display-name>Sky Sport Austria 1</display-name>
-    <icon src="https://www.thesportsdb.com/images/media/channel/logo/0pvnal1629913964.png" />
     <icon src="https://www.thesportsdb.com/images/media/channel/logo/0pvnal1629913964.png" />
   </channel>
   <channel id="ORF Sport Alemania">
     <display-name>ORF Sport Alemania</display-name>
     <icon src="https://images.tvtoday.de/sender/small/orfsp.png" />
-    <icon src="https://images.tvtoday.de/sender/small/orfsp.png" />
   </channel>
   <channel id="Sport 1+ Alemania">
     <display-name>Sport 1+ Alemania</display-name>
-    <icon src="https://images.tvtoday.de/sender/small/s1plu.png" />
     <icon src="https://images.tvtoday.de/sender/small/s1plu.png" />
   </channel>
   <channel id="Sport1 Alemania">
     <display-name>Sport1 Alemania</display-name>
     <icon src="https://images.tvtoday.de/sender/small/sport.png" />
-    <icon src="https://images.tvtoday.de/sender/small/sport.png" />
   </channel>
   <channel id="Nova Sport 1">
     <display-name>Nova Sport 1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" />
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" />
   </channel>
   <channel id="Nova Sport 2">
     <display-name>Nova Sport 2</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" />
     <icon src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" />
   </channel>
   <programme start="20241012000000 +0200" stop="20241012014500 +0200" channel="Ziggo 1 Holanda">
