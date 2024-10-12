@@ -1,4 +1,4 @@
-ESPN.PREMIUM.ar,ESPN Premium Argentina,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png
+ESPN.PREMIUM.ar,ESPN Premium Argentina,https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png
 FOX.Sports.Premium.MEXICO.mx,Fox Sports Premium Mejico,https://es.m.wikipedia.org/wiki/Archivo:Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png
 Ziggo.Sport.nl,Ziggo 1 Holanda
 Ziggo.Sport.2.nl,Ziggo 2 Holanda
@@ -9,7 +9,7 @@ ESPN.1.nl,ESPN Holanda
 ESPN.2.nl,ESPN 2 Holanda
 ESPN.3.nl,ESPN 3 Holanda
 ESPN.4.nl,ESPN 4 Holanda
-Digi.Sport.2.HD.ro,Digi 2 Rumania,https://i.imgur.com/KWDUi3v.png
+Digi.Sport.2.ro,Digi 2 Rumania,https://i.imgur.com/KWDUi3v.png
 DAZN.1.de,DAZN 1 Alemania,https://i.imgur.com/alzVFEm.png
 DAZN.2.de,DAZN 2 Alemania,https://i.imgur.com/m2YgWg7.png
 ORF.SPORT.+.de,ORF Sport+ Alemania
