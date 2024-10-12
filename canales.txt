@@ -20,7 +20,7 @@ Fox.Sports.2.HDTV.(FS2HD).us,Fox Sports 2 Usa,https://es.m.wikipedia.org/wiki/Ar
 Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,https://www.thesportsdb.com/images/media/channel/logo/0pvnal1629913964.png
 Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,https://www.thesportsdb.com/images/media/channel/logo/gav8g21629913985.png
 ORF.SPORT.+.de,ORF Sport Alemania
-SPORT1+.de,Sport 1+ Alemania
+SPORT1+.de,Sport1+ Alemania
 SPORT1.de,Sport1 Alemania
 Nova.Sport.1.cz,Nova Sport 1,https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png
 Nova.Sport.2.cz,Nova Sport 2,https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png
