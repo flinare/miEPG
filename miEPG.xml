@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 14/10/2024 10:01" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/10/2024 10:10" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Ziggo 1 Holanda">
     <display-name>Ziggo 1 Holanda</display-name>
     <icon src="https://tvgidsassets.nl/v340/img/channels/120x120/99.png" />
@@ -47,6 +47,22 @@
   <channel id="ORF Sport+ Alemania">
     <display-name>ORF Sport+ Alemania</display-name>
     <icon src="https://images.tvtoday.de/sender/small/orfsp.png" />
+  </channel>
+  <channel id="ESPN Usa">
+    <display-name>ESPN Usa</display-name>
+    <icon src="https://i.imgur.com/ZY71cCY.png" />
+  </channel>
+  <channel id="ESPN 2 Usa">
+    <display-name>ESPN 2 Usa</display-name>
+    <icon src="https://i.imgur.com/00tsvjE.png" />
+  </channel>
+  <channel id="Fox Sports 1 Usa">
+    <display-name>Fox Sports 1 Usa</display-name>
+    <icon src="https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_1_10s.png" />
+  </channel>
+  <channel id="Fox Sports 2 Usa">
+    <display-name>Fox Sports 2 Usa</display-name>
+    <icon src="https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_2.png" />
   </channel>
   <channel id="Sky Sport Austria 1">
     <display-name>Sky Sport Austria 1</display-name>
@@ -5760,6 +5776,312 @@
     <category lang="nl">Talkshow</category>
     <icon src="https://tvgidsassets.nl/v340/upload/v/carrousel/voetbalpraat-574729751.jpg" />
   </programme>
+  <programme channel="Digi 2 Rumania" start="20241013070000 +0300" stop="20241013093000 +0300">
+    <title lang="ro">Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013093000 +0300" stop="20241013110000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013110000 +0300" stop="20241013113000 +0300">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013113000 +0300" stop="20241013120000 +0300">
+    <title lang="ro">Champions League: Magazin Episodul 6</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013120000 +0300" stop="20241013140000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013140000 +0300" stop="20241013160000 +0300">
+    <title lang="ro">Nations League: Spania-Danemarca Grupe (etapa 3)</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013160000 +0300" stop="20241013180000 +0300">
+    <title lang="ro">Live Nations League: Kazahstan-Slovenia Grupe (etapa 4)</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013180000 +0300" stop="20241013183000 +0300">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013183000 +0300" stop="20241013190000 +0300">
+    <title lang="ro">Premiera Premier League: The Big Interview</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013190000 +0300" stop="20241013210000 +0300">
+    <title lang="ro">Live Nations League: Malta-Moldova Grupe (etapa 4)</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013210000 +0300" stop="20241013213000 +0300">
+    <title lang="ro">Premiera La Liga: Power Episodul 2</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013213000 +0300" stop="20241013214500 +0300">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013214500 +0300" stop="20241013234500 +0300">
+    <title lang="ro">Live Nations League: Grecia-Irlanda Grupe (etapa 4)</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241013234500 +0300" stop="20241014020000 +0300">
+    <title lang="ro">Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014020000 +0300" stop="20241014043000 +0300">
+    <title lang="ro">Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014043000 +0300" stop="20241014070000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014070000 +0300" stop="20241014090000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014090000 +0300" stop="20241014110000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014110000 +0300" stop="20241014130000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014130000 +0300" stop="20241014150000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014150000 +0300" stop="20241014170000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014170000 +0300" stop="20241014190000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014190000 +0300" stop="20241014210000 +0300">
+    <title lang="ro">Live Nations League: Azerbaidjan-Slovacia Grupe (etapa 4)</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014210000 +0300" stop="20241014211500 +0300">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014211500 +0300" stop="20241014214500 +0300">
+    <title lang="ro">Nations League: Rezumate</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014214500 +0300" stop="20241014234500 +0300">
+    <title lang="ro">Live Nations League: Germania-Tarile de Jos Grupe (etapa 4)</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241014234500 +0300" stop="20241015020000 +0300">
+    <title lang="ro">Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015020000 +0300" stop="20241015043000 +0300">
+    <title lang="ro">Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015043000 +0300" stop="20241015070000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015070000 +0300" stop="20241015090000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015090000 +0300" stop="20241015110000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015110000 +0300" stop="20241015130000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015130000 +0300" stop="20241015150000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015150000 +0300" stop="20241015170000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015170000 +0300" stop="20241015193000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015193000 +0300" stop="20241015194500 +0300">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015194500 +0300" stop="20241015213000 +0300">
+    <title lang="ro">Live Handbal: Chrobry Glogow-CSM Constanta Handbal masculin European League (etapa 2)</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015213000 +0300" stop="20241015214500 +0300">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015214500 +0300" stop="20241015234500 +0300">
+    <title lang="ro">Live Nations League: Spania-Serbia Grupe (etapa 4)</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241015234500 +0300" stop="20241016020000 +0300">
+    <title lang="ro">Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016020000 +0300" stop="20241016043000 +0300">
+    <title lang="ro">Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016043000 +0300" stop="20241016070000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016070000 +0300" stop="20241016090000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016090000 +0300" stop="20241016110000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016110000 +0300" stop="20241016130000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016130000 +0300" stop="20241016150000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016150000 +0300" stop="20241016170000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016170000 +0300" stop="20241016190000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016190000 +0300" stop="20241016210000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016210000 +0300" stop="20241016233000 +0300">
+    <title lang="ro">Live Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme channel="Digi 2 Rumania" start="20241016233000 +0300" stop="20241017013000 +0300">
+    <title lang="ro">Tenis</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
   <programme start="20241013060000 +0000" stop="20241013080000 +0000" channel="DAZN 1 Alemania">
     <title lang="de">Bundesliga: FC Augsburg - Borussia M'gladbach</title>
     <desc lang="de">Kommentator: Uli Hebel.</desc>
@@ -7536,6 +7858,2111 @@
     <date>2024</date>
     <category lang="de">Eishockey</category>
     <icon src="https://images.tvtoday.de/itv/2024-10-16/6177c5ea8189652ccb4a0c0d_780.jpg" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013070000 +0000" stop="20241013080000 +0000">
+    <title lang="en">College Football Final</title>
+    <desc lang="en">A comprehensive college football wrap-up, plus a look at major storylines heading into next week. (Repeat).</desc>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013080000 +0000" stop="20241013083000 +0000">
+    <title lang="en">NFL Matchup</title>
+    <desc lang="en">Matt Bowen, Sal Paolantonio and Greg Cosell present detailed X-and-O NFL previews and features highlighting players to watch in upcoming matchups. (Repeat).</desc>
+    <credits>
+      <presenter>Sal Paolantonio</presenter>
+    </credits>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013083000 +0000" stop="20241013103000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Florida at Tennessee</sub-title>
+    <desc lang="en">Florida (3-2, 1-1 SEC) at Tennessee (4-1, 1-1). From Neyland Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN Usa" start="20241013103000 +0000" stop="20241013110000 +0000">
+    <title lang="en">NFL Matchup</title>
+    <desc lang="en">Matt Bowen, Sal Paolantonio and Greg Cosell present detailed X-and-O NFL previews and features highlighting players to watch in upcoming matchups. (Repeat).</desc>
+    <credits>
+      <presenter>Sal Paolantonio</presenter>
+    </credits>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013110000 +0000" stop="20241013120000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -3</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013120000 +0000" stop="20241013130000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -4</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013130000 +0000" stop="20241013140000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -5</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013140000 +0000" stop="20241013170000 +0000">
+    <title lang="en">Sunday NFL Countdown</title>
+    <desc lang="en">Mike Greenberg hosts an in-depth preview of the day's pro football, blending studio analysis, features and on-site reports. Randy Moss, Rex Ryan, Tedy Bruschi, Alex Smith, reporter Adam Schefter and betting analyst Erin Dolan round out the studio cast. (Live).</desc>
+    <credits>
+      <presenter>Suzy Kolber</presenter>
+      <presenter>Samantha Ponder</presenter>
+    </credits>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013170000 +0000" stop="20241013190000 +0000">
+    <title lang="en">Women's College Volleyball</title>
+    <sub-title lang="en">Texas at Kentucky</sub-title>
+    <desc lang="en">Texas at Kentucky. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN Usa" start="20241013190000 +0000" stop="20241013200000 +0000">
+    <title lang="en">Clutch: The NBA Playoffs</title>
+    <sub-title lang="en">Killer Instinct</sub-title>
+    <desc lang="en">Indiana and Milwaukee square off in a heated First Round matchup. Making his playoff debut, All-Star Tyrese Haliburton is out to prove he has what it takes to lead the Pacers. Standing in his way is the Buck's Patrick Beverley. Back in his hometown of Chicago, Beverley details what made him a relentless player. Meanwhile, the Celtics finished with the best regular season record in the league, but questions linger about their championship pedigree. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013200000 +0000" stop="20241013210000 +0000">
+    <title lang="en">Clutch: The NBA Playoffs</title>
+    <sub-title lang="en">Hunter vs Hunted</sub-title>
+    <desc lang="en">The defending champion Nuggets hope to repeat, but teams such as the Timberwolves are built to beat them. In the Western Conference Semifinals these combatants battle in an epic 7-game series. The pressure is intense for the Nuggets' Jamal Murray and the Cavs' Donovan Mitchell to sustain their reputations as elite playoff performers. Expectations are high in Boston where unproven second-year coach Joe Mazzulla is determined to show he's worthy of leading this storied franchise. (New).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013210000 +0000" stop="20241013220000 +0000">
+    <title lang="en">Clutch: The NBA Playoffs</title>
+    <sub-title lang="en">Make Your Name</sub-title>
+    <desc lang="en">NBA history has shown that you can't win a title with superstars alone. As the conference semifinals continue, key contributors such as the Knicks' Josh Hart, the Pacers' T.J. McConnell and Mavericks' PJ Washington are determined to help their teams advance. Whether it is grabbing a big rebound, running the fastbreak or "standing on business", these role players are looking to rise to the occasion and bring their respective franchises closer to Championship glory. (New).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241013220000 +0000" stop="20241014003000 +0000">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Minnesota Timberwolves at New York Knicks</sub-title>
+    <desc lang="en">Minnesota Timberwolves at New York Knicks. From Madison Square Garden. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014003000 +0000" stop="20241014030000 +0000">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Phoenix Suns at Denver Nuggets</sub-title>
+    <desc lang="en">Phoenix Suns at Denver Nuggets. From Ball Arena. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014030000 +0000" stop="20241014033000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -6</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014033000 +0000" stop="20241014050000 +0000">
+    <title lang="en">SportsCenter with Scott Van Pelt</title>
+    <sub-title lang="en">10-13-2024</sub-title>
+    <desc lang="en">Scott Van Pelt hosts ESPN's signature news and highlights show, with interviews and unique segments including 'Senior Night,' to recognize high-school and college athletes. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014050000 +0000" stop="20241014060000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -1</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014060000 +0000" stop="20241014070000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014070000 +0000" stop="20241014080000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014080000 +0000" stop="20241014100000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Kansas State at Colorado</sub-title>
+    <desc lang="en">Kansas State (4-1, 1-1 Big 12) at Colorado (4-1, 2-0). From Folsom Field.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN Usa" start="20241014100000 +0000" stop="20241014110000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014110000 +0000" stop="20241014120000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -3</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014120000 +0000" stop="20241014140000 +0000">
+    <title lang="en">Get Up</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport. (Live).</desc>
+    <credits>
+      <presenter>Mike Greenberg</presenter>
+      <presenter>Laura Rutledge</presenter>
+      <presenter>Jalen Rose</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E202</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014140000 +0000" stop="20241014160000 +0000">
+    <title lang="en">First Take</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014160000 +0000" stop="20241014180000 +0000">
+    <title lang="en">The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day. (Live).</desc>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN Usa" start="20241014180000 +0000" stop="20241014190000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -4</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014190000 +0000" stop="20241014210000 +0000">
+    <title lang="en">NFL Live</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014210000 +0000" stop="20241014213000 +0000">
+    <title lang="en">Around the Horn</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (New).</desc>
+    <credits>
+      <presenter>Tony Reali</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S23 E177</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014213000 +0000" stop="20241014220000 +0000">
+    <title lang="en">Pardon the Interruption</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail. (New).</desc>
+    <credits>
+      <presenter>Tony Kornheiser</presenter>
+      <presenter>Michael Wilbon</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
+    <episode-num system="onscreen">S25 E177</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241014220000 +0000" stop="20241015000000 +0000">
+    <title lang="en">Monday Night Countdown</title>
+    <desc lang="en">Scott Van Pelt hosts a comprehensive preview of the NFL's weekly finale, featuring studio analysis and on-site reports, plus a weekend recap. Ryan Clark, Marcus Spears, Jason Kelce, reporter Adam Schefter and Michelle Beisner-Buck round out the cast. (Live).</desc>
+    <credits>
+      <commentator>Rick Reilly</commentator>
+      <presenter>Suzy Kolber</presenter>
+      <presenter>Stuart Scott</presenter>
+    </credits>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015000000 +0000" stop="20241015001500 +0000">
+    <title lang="en">Monday Night Kickoff</title>
+    <desc lang="en">Previewing the upcoming Monday Night Football game, with on-field interviews. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015001500 +0000" stop="20241015031500 +0000">
+    <title lang="en">Monday Night Football</title>
+    <sub-title lang="en">Buffalo Bills at New York Jets</sub-title>
+    <desc lang="en">Buffalo Bills (3-2) at New York Jets (2-3). From MetLife Stadium. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015031500 +0000" stop="20241015033000 +0000">
+    <title lang="en">Monday Night Postgame</title>
+    <desc lang="en">Interviews and analysis wrapping up Monday Night Football coverage. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015033000 +0000" stop="20241015043000 +0000">
+    <title lang="en">SportsCenter with Scott Van Pelt</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Scott Van Pelt hosts ESPN's signature news and highlights show, with interviews and unique segments including 'Senior Night,' to recognize high-school and college athletes. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015043000 +0000" stop="20241015053000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -1</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015053000 +0000" stop="20241015063000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015063000 +0000" stop="20241015073000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015073000 +0000" stop="20241015083000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015083000 +0000" stop="20241015090000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015090000 +0000" stop="20241015100000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015100000 +0000" stop="20241015110000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015110000 +0000" stop="20241015120000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -3</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015120000 +0000" stop="20241015140000 +0000">
+    <title lang="en">Get Up</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport. (Live).</desc>
+    <credits>
+      <presenter>Mike Greenberg</presenter>
+      <presenter>Laura Rutledge</presenter>
+      <presenter>Jalen Rose</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E203</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015140000 +0000" stop="20241015160000 +0000">
+    <title lang="en">First Take</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015160000 +0000" stop="20241015180000 +0000">
+    <title lang="en">The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day. (Live).</desc>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN Usa" start="20241015180000 +0000" stop="20241015190000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -4</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015190000 +0000" stop="20241015200000 +0000">
+    <title lang="en">NBA Today</title>
+    <desc lang="en">NBA news, highlights, discussions and interviews. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015200000 +0000" stop="20241015210000 +0000">
+    <title lang="en">NFL Live</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015210000 +0000" stop="20241015213000 +0000">
+    <title lang="en">Around the Horn</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (New).</desc>
+    <credits>
+      <presenter>Tony Reali</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S23 E178</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015213000 +0000" stop="20241015220000 +0000">
+    <title lang="en">Pardon the Interruption</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail. (New).</desc>
+    <credits>
+      <presenter>Tony Kornheiser</presenter>
+      <presenter>Michael Wilbon</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
+    <episode-num system="onscreen">S25 E178</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015220000 +0000" stop="20241015230000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -5</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015230000 +0000" stop="20241015233000 +0000">
+    <title lang="en">CFP Rankings Show</title>
+    <desc lang="en">(Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241015233000 +0000" stop="20241016020000 +0000">
+    <title lang="en">NHL Hockey</title>
+    <sub-title lang="en">Minnesota Wild at St. Louis Blues</sub-title>
+    <desc lang="en">Minnesota Wild at St. Louis Blues. From Enterprise Center. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016020000 +0000" stop="20241016043000 +0000">
+    <title lang="en">NHL Hockey</title>
+    <sub-title lang="en">Philadelphia Flyers at Edmonton Oilers</sub-title>
+    <desc lang="en">Philadelphia Flyers at Edmonton Oilers. From Rogers Place. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016043000 +0000" stop="20241016053000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -1</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016053000 +0000" stop="20241016063000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016063000 +0000" stop="20241016073000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016073000 +0000" stop="20241016080000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016080000 +0000" stop="20241016100000 +0000">
+    <title lang="en">NHL Hockey</title>
+    <sub-title lang="en">Philadelphia Flyers at Edmonton Oilers</sub-title>
+    <desc lang="en">Philadelphia Flyers at Edmonton Oilers. From Rogers Place.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme channel="ESPN Usa" start="20241016100000 +0000" stop="20241016110000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016110000 +0000" stop="20241016120000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -3</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016120000 +0000" stop="20241016140000 +0000">
+    <title lang="en">Get Up</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport. (Live).</desc>
+    <credits>
+      <presenter>Mike Greenberg</presenter>
+      <presenter>Laura Rutledge</presenter>
+      <presenter>Jalen Rose</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E204</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016140000 +0000" stop="20241016160000 +0000">
+    <title lang="en">First Take</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016160000 +0000" stop="20241016180000 +0000">
+    <title lang="en">The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day. (Live).</desc>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN Usa" start="20241016180000 +0000" stop="20241016190000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -4</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016190000 +0000" stop="20241016200000 +0000">
+    <title lang="en">NBA Today</title>
+    <desc lang="en">NBA news, highlights, discussions and interviews. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016200000 +0000" stop="20241016210000 +0000">
+    <title lang="en">NFL Live</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016210000 +0000" stop="20241016213000 +0000">
+    <title lang="en">Around the Horn</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (New).</desc>
+    <credits>
+      <presenter>Tony Reali</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S23 E179</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016213000 +0000" stop="20241016220000 +0000">
+    <title lang="en">Pardon the Interruption</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail. (New).</desc>
+    <credits>
+      <presenter>Tony Kornheiser</presenter>
+      <presenter>Michael Wilbon</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
+    <episode-num system="onscreen">S25 E179</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016220000 +0000" stop="20241016230000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -5</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016230000 +0000" stop="20241016233000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -6</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN Usa" start="20241016233000 +0000" stop="20241017000000 +0000">
+    <title lang="en">WNBA Countdown</title>
+    <desc lang="en">Women's National Basketball Association game previews, news, features and discussion. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013070000 +0000" stop="20241013080000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013080000 +0000" stop="20241013100000 +0000">
+    <title lang="en">Junior Golf</title>
+    <sub-title lang="en">PGA Junior League Championship</sub-title>
+    <desc lang="en">Twelve teams of U-13 golfers compete in the PGA Junior League National Championship, from Fields Ranch West at PGA Frisco in Frisco, Texas.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013100000 +0000" stop="20241013110000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -2</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013110000 +0000" stop="20241013120000 +0000">
+    <title lang="en">College Football Final</title>
+    <desc lang="en">A comprehensive college football wrap-up, plus a look at major storylines heading into next week. (Repeat).</desc>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013120000 +0000" stop="20241013123000 +0000">
+    <title lang="en">TrueSouth</title>
+    <sub-title lang="en">Little Rock, Ark</sub-title>
+    <desc lang="en">In Little Rock, AR, Jordan Narvaez introduces the crew to his people and places. They begin at El Super Pollo, the chicken al carbon tent he runs with his brother, set in front of their western wear store. Traveling southwestern Little Rock in Jordan's pickup, they drink micheladas, eat enchiladas in the style of San Luis Potosi, and slurp homemade watermelon ice cream. (Repeat).</desc>
+    <credits>
+      <presenter>John T. Edge</presenter>
+      <producer>Wright Thompson</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Travel</category>
+    <category lang="en">Food &amp; Cooking</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013123000 +0000" stop="20241013130000 +0000">
+    <title lang="en">The Breakdown with Peyton and Belichick</title>
+    <desc lang="en">Widely-acclaimed quarterback Peyton Manning and legendary coach Bill Belichick sit down in the film room for a schematic breakdown of the upcoming Monday Night Football matchup. (Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013130000 +0000" stop="20241013140000 +0000">
+    <title lang="en">ESPN BET Live</title>
+    <desc lang="en">Point spreads and money lines are the focus of this look at today's sports and the latest betting news and angles. Joe Fortenbaugh and Tyler Fulghum host, with appearances by Anita Marks, Erin Dolan, "Stanford" Steve Coughlin and others. (Live).</desc>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013140000 +0000" stop="20241013170000 +0000">
+    <title lang="en">Fantasy Football Now</title>
+    <desc lang="en">Gameday fantasy lineup advice and discussion, plus injury updates and other NFL news. (Live).</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013170000 +0000" stop="20241013190000 +0000">
+    <title lang="en">APP Tour Pickleball</title>
+    <sub-title lang="en">Dallas Open</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013190000 +0000" stop="20241013210000 +0000">
+    <title lang="en">PGA Junior League Championship</title>
+    <desc lang="en">(Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013210000 +0000" stop="20241013230000 +0000">
+    <title lang="en">NWSL Soccer</title>
+    <sub-title lang="en">Utah Royals vs. Seattle Reign FC</sub-title>
+    <desc lang="en">Utah Royals vs. Seattle Reign FC. From America First Field. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241013230000 +0000" stop="20241014000000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -10</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014000000 +0000" stop="20241014003000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-13-2024 -9</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014003000 +0000" stop="20241014010000 +0000">
+    <title lang="en">TrueSouth</title>
+    <sub-title lang="en">Little Rock, Ark</sub-title>
+    <desc lang="en">In Little Rock, AR, Jordan Narvaez introduces the crew to his people and places. They begin at El Super Pollo, the chicken al carbon tent he runs with his brother, set in front of their western wear store. Traveling southwestern Little Rock in Jordan's pickup, they drink micheladas, eat enchiladas in the style of San Luis Potosi, and slurp homemade watermelon ice cream. (Repeat).</desc>
+    <credits>
+      <presenter>John T. Edge</presenter>
+      <producer>Wright Thompson</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Travel</category>
+    <category lang="en">Food &amp; Cooking</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014010000 +0000" stop="20241014020000 +0000">
+    <title lang="en">Inside Pro Surfing</title>
+    <sub-title lang="en">2024 Fiji Open</sub-title>
+    <desc lang="en">(Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014020000 +0000" stop="20241014030000 +0000">
+    <title lang="en">Inside Pro Surfing</title>
+    <sub-title lang="en">2024 Rip Curl WSL Finals</sub-title>
+    <desc lang="en">(Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014030000 +0000" stop="20241014040000 +0000">
+    <title lang="en">College Football Final</title>
+    <desc lang="en">A comprehensive college football wrap-up, plus a look at major storylines heading into next week. (Repeat).</desc>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014040000 +0000" stop="20241014043000 +0000">
+    <title lang="en">Baseball Tonight</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">An in-depth look at Major League Baseball, with highlights, news and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014043000 +0000" stop="20241014050000 +0000">
+    <title lang="en">The Breakdown with Peyton and Belichick</title>
+    <desc lang="en">Widely-acclaimed quarterback Peyton Manning and legendary coach Bill Belichick sit down in the film room for a schematic breakdown of the upcoming Monday Night Football matchup. (Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014050000 +0000" stop="20241014060000 +0000">
+    <title lang="en">World of X Games</title>
+    <sub-title lang="en">Monster Energy Trail of Missions 2024</sub-title>
+    <desc lang="en">Athletes from around the globe compete in extreme sports, showcasing breathtaking stunts and incredible skills in a thrilling and action-packed event. (Repeat).</desc>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014060000 +0000" stop="20241014080000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">California at Pittsburgh</sub-title>
+    <desc lang="en">California (3-2, 0-2 ACC) at Pittsburgh (5-0, 1-0). From Acrisure Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014080000 +0000" stop="20241014100000 +0000">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Phoenix Suns at Denver Nuggets</sub-title>
+    <desc lang="en">Phoenix Suns at Denver Nuggets. From Ball Arena.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014100000 +0000" stop="20241014120000 +0000">
+    <title lang="en">Unsportsmanlike with Evan, Canty and Michelle</title>
+    <desc lang="en">Evan Cohen, Chris Canty and Michelle Smallmon host an energizing and informative ESPN Radio morning show all about sports, life and laughter. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014120000 +0000" stop="20241014130000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -10</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014130000 +0000" stop="20241014140000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -10</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014140000 +0000" stop="20241014160000 +0000">
+    <title lang="en">Get Up</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport. (Repeat).</desc>
+    <credits>
+      <presenter>Mike Greenberg</presenter>
+      <presenter>Laura Rutledge</presenter>
+      <presenter>Jalen Rose</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E202</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014160000 +0000" stop="20241014180000 +0000">
+    <title lang="en">First Take</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014180000 +0000" stop="20241014183000 +0000">
+    <title lang="en">The Breakdown with Peyton and Belichick</title>
+    <desc lang="en">Widely-acclaimed quarterback Peyton Manning and legendary coach Bill Belichick sit down in the film room for a schematic breakdown of the upcoming Monday Night Football matchup. (Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014183000 +0000" stop="20241014190000 +0000">
+    <title lang="en">SVPod</title>
+    <desc lang="en">(Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014190000 +0000" stop="20241014200000 +0000">
+    <title lang="en">NBA Today</title>
+    <desc lang="en">NBA news, highlights, discussions and interviews. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014200000 +0000" stop="20241014210000 +0000">
+    <title lang="en">ESPN BET Live</title>
+    <desc lang="en">Point spreads and money lines are the focus of this look at today's sports and the latest betting news and angles. Joe Fortenbaugh and Tyler Fulghum host, with appearances by Anita Marks, Erin Dolan, "Stanford" Steve Coughlin and others. (Live).</desc>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014210000 +0000" stop="20241014213000 +0000">
+    <title lang="en">The Breakdown with Peyton and Belichick</title>
+    <desc lang="en">Widely-acclaimed quarterback Peyton Manning and legendary coach Bill Belichick sit down in the film room for a schematic breakdown of the upcoming Monday Night Football matchup. (Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014213000 +0000" stop="20241014220000 +0000">
+    <title lang="en">SVPod</title>
+    <desc lang="en">(Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014220000 +0000" stop="20241014230000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -9</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241014230000 +0000" stop="20241015000000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-14-2024 -8</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015000000 +0000" stop="20241015001500 +0000">
+    <title lang="en">Monday Night Kickoff</title>
+    <desc lang="en">Previewing the upcoming Monday Night Football game, with on-field interviews. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015001500 +0000" stop="20241015031500 +0000">
+    <title lang="en">Monday Night Football with Peyton and Eli</title>
+    <sub-title lang="en">ManningCast: Buffalo Bills at New York Jets</sub-title>
+    <desc lang="en">Eli and Peyton Manning provide remote commentary for the Buffalo Bills at New York Jets. Legendary coach Bill Belichick joins the quarterback brothers in the first half, with more guests checking in after halftime. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015031500 +0000" stop="20241015033000 +0000">
+    <title lang="en">Monday Night Postgame</title>
+    <desc lang="en">Interviews and analysis wrapping up Monday Night Football coverage. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015033000 +0000" stop="20241015040000 +0000">
+    <title lang="en">One More Round</title>
+    <sub-title lang="en">Pacquiao vs. Cotto (Chad Ochocinco &amp; LeSean McCoy)</sub-title>
+    <desc lang="en">Pacquiao vs. Cotto from 2009 is discussed by Chad Ochocinco and LeSean McCoy. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015040000 +0000" stop="20241015043000 +0000">
+    <title lang="en">Baseball Tonight</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">An in-depth look at Major League Baseball, with highlights, news and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015043000 +0000" stop="20241015050000 +0000">
+    <title lang="en">10-19: Francis Ngannou Returns</title>
+    <desc lang="en">(Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015050000 +0000" stop="20241015053000 +0000">
+    <title lang="en">PFL Giants - Top Finishes Countdown</title>
+    <desc lang="en">(Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015053000 +0000" stop="20241015060000 +0000">
+    <title lang="en">Around the Horn</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (Repeat).</desc>
+    <credits>
+      <presenter>Tony Reali</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S23 E177</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015060000 +0000" stop="20241015063000 +0000">
+    <title lang="en">Pardon the Interruption</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail. (Repeat).</desc>
+    <credits>
+      <presenter>Tony Kornheiser</presenter>
+      <presenter>Michael Wilbon</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
+    <episode-num system="onscreen">S25 E177</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015063000 +0000" stop="20241015073000 +0000">
+    <title lang="en">The Fight Life</title>
+    <sub-title lang="en">Tyson Fury: A Heavyweight Task</sub-title>
+    <desc lang="en">Tyson Fury gears up for a showdown against Ukrainian Oleksandr Usyk to crown boxing's first undisputed heavyweight champion in 25 years. After a near-defeat to MMA star Francis Ngannou, "The Gypsy King" must prove he still sits atop the heavyweight throne. Go behind the scenes with the executives and matchmakers of Top Rank as they shape the business of boxing. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015073000 +0000" stop="20241015093000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Clemson at Wake Forest</sub-title>
+    <desc lang="en">Clemson (4-1, 3-0 ACC) at Wake Forest (2-3, 1-1). From Allegacy Federal Credit Union Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015093000 +0000" stop="20241015100000 +0000">
+    <title lang="en">10-19: Francis Ngannou Returns</title>
+    <desc lang="en">(Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015100000 +0000" stop="20241015120000 +0000">
+    <title lang="en">Unsportsmanlike with Evan, Canty and Michelle</title>
+    <desc lang="en">Evan Cohen, Chris Canty and Michelle Smallmon host an energizing and informative ESPN Radio morning show all about sports, life and laughter. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015120000 +0000" stop="20241015130000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -10</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015130000 +0000" stop="20241015140000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -10</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015140000 +0000" stop="20241015160000 +0000">
+    <title lang="en">Get Up</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport. (Repeat).</desc>
+    <credits>
+      <presenter>Mike Greenberg</presenter>
+      <presenter>Laura Rutledge</presenter>
+      <presenter>Jalen Rose</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E203</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015160000 +0000" stop="20241015180000 +0000">
+    <title lang="en">First Take</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015180000 +0000" stop="20241015183000 +0000">
+    <title lang="en">College Football Live</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">A daily dose of college football news, features, analysis, game previews and studio discussion, plus on-campus reports. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015183000 +0000" stop="20241015190000 +0000">
+    <title lang="en">This Is Football</title>
+    <desc lang="en">Premier League history, tradition and rivalries are examined. (Repeat).</desc>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015190000 +0000" stop="20241015200000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -10</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015200000 +0000" stop="20241015210000 +0000">
+    <title lang="en">NBA Today</title>
+    <desc lang="en">NBA news, highlights, discussions and interviews. (Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015210000 +0000" stop="20241015220000 +0000">
+    <title lang="en">NFL Live</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015220000 +0000" stop="20241015233000 +0000">
+    <title lang="en">The Point</title>
+    <desc lang="en">National Hockey League news, player profiles, previews and exclusive access. Host: John Buccigross. (Live).</desc>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241015233000 +0000" stop="20241016023000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Troy at South Alabama</sub-title>
+    <desc lang="en">Troy at South Alabama. From Hancock Whitney Stadium. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016023000 +0000" stop="20241016040000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-15-2024 -9</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016040000 +0000" stop="20241016043000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -10</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016043000 +0000" stop="20241016050000 +0000">
+    <title lang="en">Good Guy/Bad Guy</title>
+    <desc lang="en">The latest news around the world of MMA. (New).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016050000 +0000" stop="20241016060000 +0000">
+    <title lang="en">NFL Live</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016060000 +0000" stop="20241016080000 +0000">
+    <title lang="en">NHL Hockey</title>
+    <sub-title lang="en">Minnesota Wild at St. Louis Blues</sub-title>
+    <desc lang="en">Minnesota Wild at St. Louis Blues. From Enterprise Center.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016080000 +0000" stop="20241016090000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -10</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016090000 +0000" stop="20241016100000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -10</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016100000 +0000" stop="20241016120000 +0000">
+    <title lang="en">Unsportsmanlike with Evan, Canty and Michelle</title>
+    <desc lang="en">Evan Cohen, Chris Canty and Michelle Smallmon host an energizing and informative ESPN Radio morning show all about sports, life and laughter. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016120000 +0000" stop="20241016130000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -9</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016130000 +0000" stop="20241016140000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -9</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016140000 +0000" stop="20241016160000 +0000">
+    <title lang="en">Get Up</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport. (Repeat).</desc>
+    <credits>
+      <presenter>Mike Greenberg</presenter>
+      <presenter>Laura Rutledge</presenter>
+      <presenter>Jalen Rose</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E204</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016160000 +0000" stop="20241016180000 +0000">
+    <title lang="en">First Take</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Stephen A. Smith and host Molly Qerim Rose discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016180000 +0000" stop="20241016183000 +0000">
+    <title lang="en">College Football Live</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">A daily dose of college football news, features, analysis, game previews and studio discussion, plus on-campus reports. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016183000 +0000" stop="20241016190000 +0000">
+    <title lang="en">Championship Drive</title>
+    <desc lang="en">A look at the college football landscape, evaluating contenders for the College Football Playoff. (Live).</desc>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016190000 +0000" stop="20241016200000 +0000">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">10-16-2024 -9</sub-title>
+    <desc lang="en">ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016200000 +0000" stop="20241016210000 +0000">
+    <title lang="en">NBA Today</title>
+    <desc lang="en">NBA news, highlights, discussions and interviews. (Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016210000 +0000" stop="20241016220000 +0000">
+    <title lang="en">NFL Live</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky and Keyshawn Johnson. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016220000 +0000" stop="20241016223000 +0000">
+    <title lang="en">Around the Horn</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Columnists from around the U.S. debate hot sports topics in a competitive format and weigh in on stories from their region. (Repeat).</desc>
+    <credits>
+      <presenter>Tony Reali</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S23 E179</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016223000 +0000" stop="20241016230000 +0000">
+    <title lang="en">Pardon the Interruption</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail. (Repeat).</desc>
+    <credits>
+      <presenter>Tony Kornheiser</presenter>
+      <presenter>Michael Wilbon</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/12298/93149_236.jpg" />
+    <episode-num system="onscreen">S25 E179</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="ESPN 2 Usa" start="20241016230000 +0000" stop="20241017020000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Western Kentucky at Sam Houston</sub-title>
+    <desc lang="en">Western Kentucky at Sam Houston. From Elliott T. Bowers Stadium. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241013073000 +0000" stop="20241013103000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Arizona at BYU</sub-title>
+    <desc lang="en">Arizona (3-2, 1-1 Big 12) at BYU (5-0, 2-0). From LaVell Edwards Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241013103000 +0000" stop="20241013133000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Iowa State at West Virginia</sub-title>
+    <desc lang="en">Iowa State (5-0, 2-0 Big 12) at West Virginia (3-2, 2-0). From Milan Puskar Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241013133000 +0000" stop="20241013140000 +0000">
+    <title lang="en">The Joel Klatt Show</title>
+    <sub-title lang="en">Big Noon Conversations - James Franklin</sub-title>
+    <desc lang="en">Joel Klatt sits down with Penn State Head Coach James Franklin to discuss the 2024 season. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241013140000 +0000" stop="20241013150000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Washington at Iowa</sub-title>
+    <desc lang="en">Washington (4-2, 2-1 Big Ten) at Iowa (3-2, 1-1). From Kinnick Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241013150000 +0000" stop="20241013155000 +0000">
+    <title lang="en">UEFA Nations League Matchnight Highlights</title>
+    <desc lang="en">A comprehensive round-up of all matches played over the latest UEFA Nations match nights. (Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241013155000 +0000" stop="20241013180000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Finland vs. England</sub-title>
+    <desc lang="en">Finland vs. England. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241013180000 +0000" stop="20241013200000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Qualifying Dallas</sub-title>
+    <desc lang="en">From Texas Motorplex in Ennis, TX.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241013200000 +0000" stop="20241013230000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Texas NHRA Fall Nationals</sub-title>
+    <desc lang="en">Texas NHRA Fall Nationals. From Texas Motorplex in Ennis, TX. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241013230000 +0000" stop="20241014010000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Finland vs. England</sub-title>
+    <desc lang="en">Finland vs. England.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014010000 +0000" stop="20241014030000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Austria vs. Norway</sub-title>
+    <desc lang="en">Austria vs. Norway.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014030000 +0000" stop="20241014040000 +0000">
+    <title lang="en">MLB on FS1 Postgame</title>
+    <desc lang="en">A wrap-up of Major League Baseball action. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014040000 +0000" stop="20241014070000 +0000">
+    <title lang="en">MLB Playoff</title>
+    <sub-title lang="en">NL Championship Series Game 1</sub-title>
+    <desc lang="en">Game 1 of the best-of-seven National League Championship Series.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014070000 +0000" stop="20241014100000 +0000">
+    <title lang="en">MLB Playoff</title>
+    <sub-title lang="en">NL Championship Series Game 1</sub-title>
+    <desc lang="en">Game 1 of the best-of-seven National League Championship Series.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014100000 +0000" stop="20241014110000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Northwestern at Maryland</sub-title>
+    <desc lang="en">Northwestern (2-3, 0-2 Big Ten) at Maryland (3-2, 0-2). From SECU Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014110000 +0000" stop="20241014120000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Washington at Iowa</sub-title>
+    <desc lang="en">Washington (4-2, 2-1 Big Ten) at Iowa (3-2, 1-1). From Kinnick Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014120000 +0000" stop="20241014140000 +0000">
+    <title lang="en">Breakfast Ball</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Hosted by Craig Carton, Mark Schlereth, and Danny Parkins, Breakfast Ball is a fun and lively morning show discussing the biggest sports stories of the day. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014140000 +0000" stop="20241014160000 +0000">
+    <title lang="en">The Facility</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Hosted by Emmanuel Acho, LeSean McCoy, James Jones, and Chase Daniel, The Facility takes you inside the biggest sports topics from the athlete's perspective. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014160000 +0000" stop="20241014190000 +0000">
+    <title lang="en">The Herd With Colin Cowherd</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Host Colin Cowherd breaks down the biggest stories and interviews the biggest guests in sports. He is joined daily by news anchor Jason McIntyre. (Live).</desc>
+    <credits>
+      <presenter>Colin Cowherd</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E195</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014190000 +0000" stop="20241014200000 +0000">
+    <title lang="en">MLB on FOX Pregame</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Previewing Major League Baseball postseason action. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014200000 +0000" stop="20241014230000 +0000">
+    <title lang="en">MLB Playoff</title>
+    <sub-title lang="en">NL Championship Series Game 2</sub-title>
+    <desc lang="en">Game 2 of the best-of-seven National League Championship Series. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014230000 +0000" stop="20241014231500 +0000">
+    <title lang="en">MLB on FS1 Postgame</title>
+    <desc lang="en">A wrap-up of Major League Baseball action. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241014231500 +0000" stop="20241015003000 +0000">
+    <title lang="en">First Things First</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes bring viewers spirited dialogue and thought-provoking discussion on the day's biggest sports stories. (New).</desc>
+    <credits>
+      <commentator>Cris Carter</commentator>
+      <presenter>Nick Wright</presenter>
+      <presenter>Jenna Wolfe</presenter>
+      <presenter>Kevin Wildes</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E183</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015003000 +0000" stop="20241015023000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Belgium vs. France</sub-title>
+    <desc lang="en">Belgium vs. France.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015023000 +0000" stop="20241015033000 +0000">
+    <title lang="en">UEFA Nations League Matchnight Highlights</title>
+    <desc lang="en">A comprehensive round-up of all matches played over the latest UEFA Nations match nights. (New).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015033000 +0000" stop="20241015063000 +0000">
+    <title lang="en">MLB Playoff</title>
+    <sub-title lang="en">NL Championship Series Game 2</sub-title>
+    <desc lang="en">Game 2 of the best-of-seven National League Championship Series.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015063000 +0000" stop="20241015073000 +0000">
+    <title lang="en">When New York Was One: The Yankees,The Mets, And The 2000 Subway Series</title>
+    <desc lang="en">A look at baseball's 2000 Mets-Yanks Subway Series through the lens of a New York forever changed in the 20 years since.</desc>
+    <credits>
+      <director>Aaron Cohen</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015073000 +0000" stop="20241015083000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015083000 +0000" stop="20241015090000 +0000">
+    <title lang="en">MLB Epic Moments</title>
+    <desc lang="en">Great games and memorable occasions from Major League Baseball history are showcased.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015090000 +0000" stop="20241015120000 +0000">
+    <title lang="en">MLB Playoff</title>
+    <sub-title lang="en">NL Championship Series Game 2</sub-title>
+    <desc lang="en">Game 2 of the best-of-seven National League Championship Series.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015120000 +0000" stop="20241015140000 +0000">
+    <title lang="en">Breakfast Ball</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Hosted by Craig Carton, Mark Schlereth, and Danny Parkins, Breakfast Ball is a fun and lively morning show discussing the biggest sports stories of the day. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015140000 +0000" stop="20241015160000 +0000">
+    <title lang="en">The Facility</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Hosted by Emmanuel Acho, LeSean McCoy, James Jones, and Chase Daniel, The Facility takes you inside the biggest sports topics from the athlete's perspective. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015160000 +0000" stop="20241015190000 +0000">
+    <title lang="en">The Herd With Colin Cowherd</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Host Colin Cowherd breaks down the biggest stories and interviews the biggest guests in sports. He is joined daily by news anchor Jason McIntyre. (Live).</desc>
+    <credits>
+      <presenter>Colin Cowherd</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E196</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015190000 +0000" stop="20241015210000 +0000">
+    <title lang="en">First Things First</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes bring viewers spirited dialogue and thought-provoking discussion on the day's biggest sports stories. (Live).</desc>
+    <credits>
+      <commentator>Cris Carter</commentator>
+      <presenter>Nick Wright</presenter>
+      <presenter>Jenna Wolfe</presenter>
+      <presenter>Kevin Wildes</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E184</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015210000 +0000" stop="20241015230000 +0000">
+    <title lang="en">Speak</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Keyshawn Johnson, Joy Taylor and Paul Pierce passionately dive into the biggest stories in sports. (Live).</desc>
+    <credits>
+      <presenter>Marcellus Wiley</presenter>
+      <presenter>Emmanuel Acho</presenter>
+      <presenter>LeSean McCoy</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E177</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015230000 +0000" stop="20241015233000 +0000">
+    <title lang="en">The Joel Klatt Show</title>
+    <sub-title lang="en">Big Noon Conversations - James Franklin</sub-title>
+    <desc lang="en">Joel Klatt sits down with Penn State Head Coach James Franklin to discuss the 2024 season. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241015233000 +0000" stop="20241016013000 +0000">
+    <title lang="en">International Friendly Soccer</title>
+    <sub-title lang="en">Canada vs. Panama</sub-title>
+    <desc lang="en">Canada vs. Panama. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016013000 +0000" stop="20241016033000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Spain vs. Serbia</sub-title>
+    <desc lang="en">Spain vs. Serbia.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016033000 +0000" stop="20241016043000 +0000">
+    <title lang="en">UEFA Nations League Matchnight Highlights</title>
+    <desc lang="en">A comprehensive round-up of all matches played over the latest UEFA Nations match nights. (New).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016043000 +0000" stop="20241016053000 +0000">
+    <title lang="en">UEFA Nations League Matchweek Highlights</title>
+    <desc lang="en">(New).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016053000 +0000" stop="20241016073000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Poland vs. Croatia</sub-title>
+    <desc lang="en">Poland vs. Croatia.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016073000 +0000" stop="20241016080000 +0000">
+    <title lang="en">TMZ Sports</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">The off-field lives and personalities of athletes are the focus. (New).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E204</episode-num>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016080000 +0000" stop="20241016110000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Texas NHRA Fall Nationals</sub-title>
+    <desc lang="en">Texas NHRA Fall Nationals. From Texas Motorplex in Ennis, TX.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016110000 +0000" stop="20241016120000 +0000">
+    <title lang="en">First Things First</title>
+    <sub-title lang="en">10-15-2024</sub-title>
+    <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes bring viewers spirited dialogue and thought-provoking discussion on the day's biggest sports stories. (Repeat).</desc>
+    <credits>
+      <commentator>Cris Carter</commentator>
+      <presenter>Nick Wright</presenter>
+      <presenter>Jenna Wolfe</presenter>
+      <presenter>Kevin Wildes</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E184</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016120000 +0000" stop="20241016140000 +0000">
+    <title lang="en">Breakfast Ball</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Hosted by Craig Carton, Mark Schlereth, and Danny Parkins, Breakfast Ball is a fun and lively morning show discussing the biggest sports stories of the day. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016140000 +0000" stop="20241016160000 +0000">
+    <title lang="en">The Facility</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Hosted by Emmanuel Acho, LeSean McCoy, James Jones, and Chase Daniel, The Facility takes you inside the biggest sports topics from the athlete's perspective. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016160000 +0000" stop="20241016190000 +0000">
+    <title lang="en">The Herd With Colin Cowherd</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Host Colin Cowherd breaks down the biggest stories and interviews the biggest guests in sports. He is joined daily by news anchor Jason McIntyre. (Live).</desc>
+    <credits>
+      <presenter>Colin Cowherd</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E197</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016190000 +0000" stop="20241016210000 +0000">
+    <title lang="en">First Things First</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes bring viewers spirited dialogue and thought-provoking discussion on the day's biggest sports stories. (Live).</desc>
+    <credits>
+      <commentator>Cris Carter</commentator>
+      <presenter>Nick Wright</presenter>
+      <presenter>Jenna Wolfe</presenter>
+      <presenter>Kevin Wildes</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E185</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016210000 +0000" stop="20241016230000 +0000">
+    <title lang="en">Speak</title>
+    <sub-title lang="en">10-16-2024</sub-title>
+    <desc lang="en">Keyshawn Johnson, Joy Taylor and Paul Pierce passionately dive into the biggest stories in sports. (Live).</desc>
+    <credits>
+      <presenter>Marcellus Wiley</presenter>
+      <presenter>Emmanuel Acho</presenter>
+      <presenter>LeSean McCoy</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E178</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 1 Usa" start="20241016230000 +0000" stop="20241017000000 +0000">
+    <title lang="en">MLB on FS1 Pregame</title>
+    <desc lang="en">Previewing Major League Baseball action, with news, analysis, highlights and features. (Live).</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013060000 +0000" stop="20241013080000 +0000">
+    <title lang="en">Women's Australian Football League</title>
+    <sub-title lang="en">Greater Western Sydney Giants vs. Adelaide Crows</sub-title>
+    <desc lang="en">Greater Western Sydney Giants vs. Adelaide Crows. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013080000 +0000" stop="20241013090000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Washington at Iowa</sub-title>
+    <desc lang="en">Washington (4-2, 2-1 Big Ten) at Iowa (3-2, 1-1). From Kinnick Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013090000 +0000" stop="20241013100000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Northwestern at Maryland</sub-title>
+    <desc lang="en">Northwestern (2-3, 0-2 Big Ten) at Maryland (3-2, 0-2). From SECU Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013100000 +0000" stop="20241013130000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Washington at Iowa</sub-title>
+    <desc lang="en">Washington (4-2, 2-1 Big Ten) at Iowa (3-2, 1-1). From Kinnick Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013130000 +0000" stop="20241013160000 +0000">
+    <title lang="en">Bassmaster Opens</title>
+    <sub-title lang="en">Logan Martin Lake</sub-title>
+    <desc lang="en">Bassmaster Opens fishing competition from Logan Martin Lake in Lincoln, Ala.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013160000 +0000" stop="20241013163000 +0000">
+    <title lang="en">Bassmaster 2023 Review : College Series Champions</title>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013163000 +0000" stop="20241013183000 +0000">
+    <title lang="en">Horse Racing</title>
+    <sub-title lang="en">America's Day at the Races</sub-title>
+    <desc lang="en">Thoroughbred racing and analysis from top tracks across the U.S. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013183000 +0000" stop="20241013203000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Austria vs. Norway</sub-title>
+    <desc lang="en">Austria vs. Norway. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013203000 +0000" stop="20241013210000 +0000">
+    <title lang="en">One for All</title>
+    <sub-title lang="en">Witsel</sub-title>
+    <desc lang="en">Witsel shows us around his house and neighbourhood while playing for Atletico de Madrid. As we meet him he tells us the importance that religion and family play in his life. He talks about how his career has evolved through the choices he made, getting started in football and dealing with the difficulties, criticism and setbacks in life. (Repeat).</desc>
+    <date>2023</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013210000 +0000" stop="20241013230000 +0000">
+    <title lang="en">Canadian Premier League Soccer</title>
+    <sub-title lang="en">Vancouver FC vs. Valour FC</sub-title>
+    <desc lang="en">Vancouver FC vs. Valour FC. From Willoughby Community Park. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241013230000 +0000" stop="20241014000000 +0000">
+    <title lang="en">The Pokerstars Big Game on Tour</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">(Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014000000 +0000" stop="20241014010000 +0000">
+    <title lang="en">NHRA Sportsman Series</title>
+    <sub-title lang="en">Charlotte</sub-title>
+    <desc lang="en">Sportsman Series racing from zMax Dragway at Charlotte Motor Speedway.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014010000 +0000" stop="20241014013000 +0000">
+    <title lang="en">NHRA Pro Mod Series</title>
+    <sub-title lang="en">From Charlotte</sub-title>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014013000 +0000" stop="20241014020000 +0000">
+    <title lang="en">NHRA in 30</title>
+    <sub-title lang="en">Top Moments of the 2024 U.S. Nationals</sub-title>
+    <desc lang="en">(Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014020000 +0000" stop="20241014023000 +0000">
+    <title lang="en">Kevin Harvick's Happy Hour</title>
+    <sub-title lang="en">Justin Marks Interview</sub-title>
+    <desc lang="en">NASCAR driver Kevin Harvick shares racing stories and insights. Enjoy a mix of thrilling highlights, personal anecdotes, and expert analysis from the track. (Repeat).</desc>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014023000 +0000" stop="20241014030000 +0000">
+    <title lang="en">Kevin Harvick's Happy Hour</title>
+    <sub-title lang="en">Richard Childress Interview</sub-title>
+    <desc lang="en">NASCAR driver Kevin Harvick shares behind-the-scenes stories and racing insights. Join him for exciting conversations and a closer look at the world of motorsports. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014030000 +0000" stop="20241014040000 +0000">
+    <title lang="en">UEFA Nations League Matchnight Highlights</title>
+    <desc lang="en">A comprehensive round-up of all matches played over the latest UEFA Nations match nights. (New).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014040000 +0000" stop="20241014060000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Finland vs. England</sub-title>
+    <desc lang="en">Finland vs. England.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014060000 +0000" stop="20241014080000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Qualifying Dallas</sub-title>
+    <desc lang="en">From Texas Motorplex in Ennis, TX.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014080000 +0000" stop="20241014110000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Texas NHRA Fall Nationals</sub-title>
+    <desc lang="en">Texas NHRA Fall Nationals. From Texas Motorplex in Ennis, TX.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014110000 +0000" stop="20241014140000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Arizona at BYU</sub-title>
+    <desc lang="en">Arizona (3-2, 1-1 Big 12) at BYU (5-0, 2-0). From LaVell Edwards Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014140000 +0000" stop="20241014150000 +0000">
+    <title lang="en">College Football</title>
+    <desc lang="en">College football action.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014150000 +0000" stop="20241014155000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Northwestern at Maryland</sub-title>
+    <desc lang="en">Northwestern (2-3, 0-2 Big Ten) at Maryland (3-2, 0-2). From SECU Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014155000 +0000" stop="20241014180000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Georgia vs. Albania</sub-title>
+    <desc lang="en">Georgia vs. Albania. From Mikheil Meskhi Stadium in Tbilisi, Georgia. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014180000 +0000" stop="20241014183000 +0000">
+    <title lang="en">One for All</title>
+    <sub-title lang="en">World Cup</sub-title>
+    <desc lang="en">Courtois, Lukaku and Witsel discuss the 2022 World Cup campaign and in their fifth tournament together this will also be the last chance for some of the golden generation. They give insight from inside the Belgian camp, the media storm surrounding the team and the tournament's result. The players also reflect on what might lie in their future as a Red Devil. (Repeat).</desc>
+    <date>2023</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014183000 +0000" stop="20241014203000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Belgium vs. France</sub-title>
+    <desc lang="en">Belgium vs. France. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014203000 +0000" stop="20241014233000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Purdue at Illinois</sub-title>
+    <desc lang="en">Purdue (1-4, 0-2 Big Ten) at Illinois (4-1, 1-1). From Memorial Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241014233000 +0000" stop="20241015000000 +0000">
+    <title lang="en">The Joel Klatt Show</title>
+    <sub-title lang="en">Big Noon Conversations - Ryan Day</sub-title>
+    <desc lang="en">Ohio State head coach Ryan Day discusses his career and the 2024 Buckeyes with Joel Klatt. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015000000 +0000" stop="20241015020000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Belgium vs. France</sub-title>
+    <desc lang="en">Belgium vs. France.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015020000 +0000" stop="20241015023000 +0000">
+    <title lang="en">One for All</title>
+    <sub-title lang="en">Lukaku</sub-title>
+    <desc lang="en">We visit Lukaku in Milan in his second stint at the club after returning from Chelsea. He talks about growing up with a burning desire to play professionally at Anderlecht and how he used the anger of his youth to push himself further. We learn more about the pressure of playing at the top, and the importance of family and caring for his kids alongside his passion for football. (Repeat).</desc>
+    <date>2023</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015023000 +0000" stop="20241015033000 +0000">
+    <title lang="en">The Pokerstars Big Game on Tour</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <desc lang="en">High-stakes poker players compete in thrilling matches across various cities. Watch intense games, strategic moves, and unexpected twists as they aim for big winnings. (Repeat).</desc>
+    <previously-shown />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015033000 +0000" stop="20241015040000 +0000">
+    <title lang="en">TMZ Sports</title>
+    <sub-title lang="en">10-14-2024</sub-title>
+    <desc lang="en">The off-field lives and personalities of athletes are the focus. (New).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E203</episode-num>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015040000 +0000" stop="20241015070000 +0000">
+    <title lang="en">College Football</title>
+    <desc lang="en">College football action.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015070000 +0000" stop="20241015100000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Northwestern at Maryland</sub-title>
+    <desc lang="en">Northwestern (2-3, 0-2 Big Ten) at Maryland (3-2, 0-2). From SECU Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015100000 +0000" stop="20241015103000 +0000">
+    <title lang="en">The Joel Klatt Show</title>
+    <sub-title lang="en">Big Noon Conversations - Sherrone Moore</sub-title>
+    <desc lang="en">New Michigan head coach Sherrone Moore discusses his career and the 2024 Wolverines' program. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015103000 +0000" stop="20241015113000 +0000">
+    <title lang="en">College Football</title>
+    <desc lang="en">College football action.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015113000 +0000" stop="20241015123000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Northwestern at Maryland</sub-title>
+    <desc lang="en">Northwestern (2-3, 0-2 Big Ten) at Maryland (3-2, 0-2). From SECU Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015123000 +0000" stop="20241015153000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Iowa State at West Virginia</sub-title>
+    <desc lang="en">Iowa State (5-0, 2-0 Big 12) at West Virginia (3-2, 2-0). From Milan Puskar Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015153000 +0000" stop="20241015183000 +0000">
+    <title lang="en">College Football</title>
+    <desc lang="en">College football action.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015183000 +0000" stop="20241015203000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Spain vs. Serbia</sub-title>
+    <desc lang="en">Spain vs. Serbia. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015203000 +0000" stop="20241015233000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Arizona at BYU</sub-title>
+    <desc lang="en">Arizona (3-2, 1-1 Big 12) at BYU (5-0, 2-0). From LaVell Edwards Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241015233000 +0000" stop="20241016003000 +0000">
+    <title lang="en">Kevin Harvick's Happy Hour</title>
+    <sub-title lang="en">Charlotte Roval Recap</sub-title>
+    <desc lang="en">NASCAR legend and Former Cup Series Champion Kevin Harvick gives his expert opinion on the top NASCAR storylines weekly alongside FOX Sports' Kaitlyn Vincie and NASCAR's Chief Hype Officer, Mamba Smith. (New).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016003000 +0000" stop="20241016033000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Texas NHRA Fall Nationals</sub-title>
+    <desc lang="en">Texas NHRA Fall Nationals. From Texas Motorplex in Ennis, TX.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016033000 +0000" stop="20241016040000 +0000">
+    <title lang="en">NHRA Pro Mod Series</title>
+    <sub-title lang="en">From Charlotte</sub-title>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016040000 +0000" stop="20241016070000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Purdue at Illinois</sub-title>
+    <desc lang="en">Purdue (1-4, 0-2 Big Ten) at Illinois (4-1, 1-1). From Memorial Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016070000 +0000" stop="20241016080000 +0000">
+    <title lang="en">College Football</title>
+    <desc lang="en">College football action.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016080000 +0000" stop="20241016100000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Spain vs. Serbia</sub-title>
+    <desc lang="en">Spain vs. Serbia.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016100000 +0000" stop="20241016130000 +0000">
+    <title lang="en">Bassmaster Opens</title>
+    <sub-title lang="en">Logan Martin Lake</sub-title>
+    <desc lang="en">Bassmaster Opens action from Logan Martin Lake in Lincoln, Ala.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016130000 +0000" stop="20241016160000 +0000">
+    <title lang="en">Bassmaster Opens</title>
+    <sub-title lang="en">Logan Martin Lake</sub-title>
+    <desc lang="en">Bassmaster Opens fishing competition from Logan Martin Lake in Lincoln, Ala.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016160000 +0000" stop="20241016190000 +0000">
+    <title lang="en">Bassmaster Opens</title>
+    <sub-title lang="en">Logan Martin Lake</sub-title>
+    <desc lang="en">Bassmaster Opens action from Logan Martin Lake in Lincoln, Ala.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016190000 +0000" stop="20241016193000 +0000">
+    <title lang="en">Bassmaster 2023 Review : College Series Champions</title>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016193000 +0000" stop="20241016194800 +0000">
+    <title lang="en">Bassmaster 2023: Winners Circle Best Catches</title>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016194800 +0000" stop="20241016220000 +0000">
+    <title lang="en">FIFA U-17 Women's World Cup Dominican Republic 2024</title>
+    <sub-title lang="en">Spain vs. U.S</sub-title>
+    <desc lang="en">Spain vs. U.S.. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016220000 +0000" stop="20241016224800 +0000">
+    <title lang="en">Kevin Harvick's Happy Hour</title>
+    <sub-title lang="en">Charlotte Roval Recap</sub-title>
+    <desc lang="en">NASCAR legend and Former Cup Series Champion Kevin Harvick gives his expert opinion on the top NASCAR storylines weekly alongside FOX Sports' Kaitlyn Vincie and NASCAR's Chief Hype Officer, Mamba Smith. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox Sports 2 Usa" start="20241016224800 +0000" stop="20241017010000 +0000">
+    <title lang="en">FIFA U-17 Women's World Cup Dominican Republic 2024</title>
+    <sub-title lang="en">Dominican Republic vs. Ecuador</sub-title>
+    <desc lang="en">Dominican Republic vs. Ecuador. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
   </programme>
   <programme start="20241013010000 +0000" stop="20241013013000 +0000" channel="Sky Sport Austria 1">
     <title lang="de">Admiral BL: 90in30: RBS - FAK, 8. Runde</title>
