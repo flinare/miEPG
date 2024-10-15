@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 15/10/2024 08:04" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 15/10/2024 13:42" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ESPN Usa">
     <display-name>ESPN Usa</display-name>
     <icon src="https://i.imgur.com/ZY71cCY.png" />
@@ -15,6 +15,9 @@
   <channel id="Fox Sports 2 Usa">
     <display-name>Fox Sports 2 Usa</display-name>
     <icon src="https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_2.png" />
+  </channel>
+  <channel id="NBA TV">
+    <display-name>NBA TV</display-name>
   </channel>
   <channel id="Ziggo 1 Holanda">
     <display-name>Ziggo 1 Holanda</display-name>
@@ -84,8 +87,8 @@
     <display-name>Nova Sport 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" />
   </channel>
-  <channel id="Digi 2 Rumania">
-    <display-name>Digi 2 Rumania</display-name>
+  <channel id="Digi Sport 2 Rumania">
+    <display-name>Digi Sport 2 Rumania</display-name>
     <icon src="https://i.imgur.com/KWDUi3v.png" />
   </channel>
   <channel id="Eleven Sports 1 Polonia">
@@ -2315,6 +2318,904 @@
     <desc lang="en">Kenya vs. England. (Live).</desc>
     <date>2024</date>
     <premiere lang="en" />
+  </programme>
+  <programme start="20241014070000 +0000" stop="20241014090000 +0000" channel="NBA TV">
+    <title lang="en">NBA Hardwood Classics</title>
+    <sub-title lang="en">1999: Indiana Pacers at Toronto Raptors</sub-title>
+    <desc lang="en">From 1999: Indiana Pacers at Toronto Raptors.</desc>
+    <date>1999</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20241014090000 +0000" stop="20241014093000 +0000" channel="NBA TV">
+    <title lang="en">KIA NBA Rookie of the Year Debate 2025</title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014093000 +0000" stop="20241014100000 +0000" channel="NBA TV">
+    <title lang="en">Race To the 2025 KIA NBA MVP</title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014100000 +0000" stop="20241014103000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014103000 +0000" stop="20241014110000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014110000 +0000" stop="20241014113000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014113000 +0000" stop="20241014120000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014120000 +0000" stop="20241014123000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014123000 +0000" stop="20241014130000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014130000 +0000" stop="20241014133000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014133000 +0000" stop="20241014140000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014140000 +0000" stop="20241014143000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014143000 +0000" stop="20241014150000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014150000 +0000" stop="20241014153000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014153000 +0000" stop="20241014160000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241014160000 +0000" stop="20241014161500 +0000" channel="NBA TV">
+    <title lang="en">Chicago Bulls Team Preview</title>
+    <sub-title lang="en">Chicago Bulls</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014161500 +0000" stop="20241014163000 +0000" channel="NBA TV">
+    <title lang="en">Houston Rockets Team Preview</title>
+    <sub-title lang="en">Houston Rockets</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014163000 +0000" stop="20241014164500 +0000" channel="NBA TV">
+    <title lang="en">Denver Nuggets Team Preview</title>
+    <sub-title lang="en">Denver Nuggets</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014164500 +0000" stop="20241014170000 +0000" channel="NBA TV">
+    <title lang="en">Minnesota Timberwolves Team Preview</title>
+    <sub-title lang="en">Minnesota Timberwolves</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014170000 +0000" stop="20241014171500 +0000" channel="NBA TV">
+    <title lang="en">Orlando Magic Team Preview</title>
+    <sub-title lang="en">Orlando Magic</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014171500 +0000" stop="20241014173000 +0000" channel="NBA TV">
+    <title lang="en">Oklahoma City Thunder Team Preview</title>
+    <sub-title lang="en">Oklahoma City Thunder</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014173000 +0000" stop="20241014174500 +0000" channel="NBA TV">
+    <title lang="en">Memphis Grizzlies Team Preview</title>
+    <sub-title lang="en">Memphis Grizzlies</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014174500 +0000" stop="20241014180000 +0000" channel="NBA TV">
+    <title lang="en">Miami Heat Team Preview</title>
+    <sub-title lang="en">Miami Heat</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014180000 +0000" stop="20241014181500 +0000" channel="NBA TV">
+    <title lang="en">Cleveland Cavaliers Team Preview</title>
+    <sub-title lang="en">Cleveland Cavaliers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014181500 +0000" stop="20241014183000 +0000" channel="NBA TV">
+    <title lang="en">Indiana Pacers Team Preview</title>
+    <sub-title lang="en">Indiana Pacers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014183000 +0000" stop="20241014203000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Los Angeles Lakers at Milwaukee Bucks</sub-title>
+    <desc lang="en">Los Angeles Lakers at Milwaukee Bucks. From Fiserv Forum.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241014203000 +0000" stop="20241014220000 +0000" channel="NBA TV">
+    <title lang="en">WNBA Finals</title>
+    <sub-title lang="en">Game 1: Minnesota Lynx at New York Liberty</sub-title>
+    <desc lang="en">Minnesota Lynx at New York Liberty in Game 1 of the best-of-five WNBA championship series. From Barclays Center. Napheesa Collier is a catalyst on both ends of the floor for the four-time champion Lynx, in their first Finals since 2017. Two-time MVP Breanna Stewart anchors the Liberty&apos;s sixth quest for their first title.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014220000 +0000" stop="20241014233000 +0000" channel="NBA TV">
+    <title lang="en">WNBA Finals</title>
+    <sub-title lang="en">Game 2: Minnesota Lynx at New York Liberty</sub-title>
+    <desc lang="en">Minnesota Lynx at New York Liberty in Game 2 of the best-of-five WNBA championship series. From Barclays Center. Breanna Stewart and the Liberty (0-5 in Finals appearances) try to shake off an unlikely loss in Game 1, when the Lynx rallied from 15 points down with 5:20 to play, forced overtime, and won 95-93. Courtney Williams, Napheesa Collier and Kayla McBride all topped 20 points for Minnesota, a franchise first.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241014233000 +0000" stop="20241015020000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Philadelphia 76ers at Atlanta Hawks</sub-title>
+    <desc lang="en">Philadelphia 76ers at Atlanta Hawks. From State Farm Arena. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015020000 +0000" stop="20241015021500 +0000" channel="NBA TV">
+    <title lang="en">Milwaukee Bucks Team Preview</title>
+    <sub-title lang="en">Milwaukee Bucks</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015021500 +0000" stop="20241015023000 +0000" channel="NBA TV">
+    <title lang="en">New Orleans Pelicans Team Preview</title>
+    <sub-title lang="en">New Orleans Pelicans</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015023000 +0000" stop="20241015050000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Dallas Mavericks at Los Angeles Clippers</sub-title>
+    <desc lang="en">Dallas Mavericks at Los Angeles Clippers. From Intuit Dome. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241015050000 +0000" stop="20241015053000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA. (Live).</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015053000 +0000" stop="20241015060000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015060000 +0000" stop="20241015080000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Philadelphia 76ers at Atlanta Hawks</sub-title>
+    <desc lang="en">Philadelphia 76ers at Atlanta Hawks. From State Farm Arena.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241015080000 +0000" stop="20241015083000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015083000 +0000" stop="20241015090000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015090000 +0000" stop="20241015093000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015093000 +0000" stop="20241015100000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015100000 +0000" stop="20241015103000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015103000 +0000" stop="20241015110000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015110000 +0000" stop="20241015113000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015113000 +0000" stop="20241015120000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015120000 +0000" stop="20241015123000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015123000 +0000" stop="20241015130000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015130000 +0000" stop="20241015133000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015133000 +0000" stop="20241015140000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015140000 +0000" stop="20241015160000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Dallas Mavericks at Los Angeles Clippers</sub-title>
+    <desc lang="en">Dallas Mavericks at Los Angeles Clippers. From Intuit Dome.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241015160000 +0000" stop="20241015163000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241015163000 +0000" stop="20241015164500 +0000" channel="NBA TV">
+    <title lang="en">Los Angeles Lakers Team Preview</title>
+    <sub-title lang="en">Los Angeles Lakers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015164500 +0000" stop="20241015170000 +0000" channel="NBA TV">
+    <title lang="en">Boston Celtics Team Preview</title>
+    <sub-title lang="en">Boston Celtics</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015170000 +0000" stop="20241015171500 +0000" channel="NBA TV">
+    <title lang="en">New York Knicks Team Preview</title>
+    <sub-title lang="en">New York Knicks</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015171500 +0000" stop="20241015173000 +0000" channel="NBA TV">
+    <title lang="en">Philadelphia 76ers Team Preview</title>
+    <sub-title lang="en">Philadelphia 76ers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015173000 +0000" stop="20241015174500 +0000" channel="NBA TV">
+    <title lang="en">Golden State Warriors Team Preview</title>
+    <sub-title lang="en">Golden State Warriors</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015174500 +0000" stop="20241015180000 +0000" channel="NBA TV">
+    <title lang="en">Dallas Mavericks Team Preview</title>
+    <sub-title lang="en">Dallas Mavericks</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015180000 +0000" stop="20241015181500 +0000" channel="NBA TV">
+    <title lang="en">Atlanta Hawks Team Preview</title>
+    <sub-title lang="en">Atlanta Hawks</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015181500 +0000" stop="20241015183000 +0000" channel="NBA TV">
+    <title lang="en">Sacramento Kings Team Preview</title>
+    <sub-title lang="en">Sacramento Kings</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015183000 +0000" stop="20241015184500 +0000" channel="NBA TV">
+    <title lang="en">Los Angeles Clippers Team Preview</title>
+    <sub-title lang="en">Los Angeles Clippers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015184500 +0000" stop="20241015190000 +0000" channel="NBA TV">
+    <title lang="en">Utah Jazz Team Preview</title>
+    <sub-title lang="en">Utah Jazz</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015190000 +0000" stop="20241015210000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Philadelphia 76ers at Atlanta Hawks</sub-title>
+    <desc lang="en">Philadelphia 76ers at Atlanta Hawks. From State Farm Arena.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241015210000 +0000" stop="20241015211500 +0000" channel="NBA TV">
+    <title lang="en">Golden State Warriors Team Preview</title>
+    <sub-title lang="en">Golden State Warriors</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015211500 +0000" stop="20241015213000 +0000" channel="NBA TV">
+    <title lang="en">Dallas Mavericks Team Preview</title>
+    <sub-title lang="en">Dallas Mavericks</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241015213000 +0000" stop="20241015233000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Dallas Mavericks at Los Angeles Clippers</sub-title>
+    <desc lang="en">Dallas Mavericks at Los Angeles Clippers. From Intuit Dome.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241015233000 +0000" stop="20241016020000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">San Antonio Spurs at Miami Heat</sub-title>
+    <desc lang="en">San Antonio Spurs at Miami Heat. From Kaseya Center. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016020000 +0000" stop="20241016043000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Golden State Warriors vs. Los Angeles Lakers</sub-title>
+    <desc lang="en">Golden State Warriors vs. Los Angeles Lakers. From T-Mobile Arena in Las Vegas. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241016043000 +0000" stop="20241016050000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA. (Live).</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016050000 +0000" stop="20241016053000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016053000 +0000" stop="20241016060000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016060000 +0000" stop="20241016080000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">San Antonio Spurs at Miami Heat</sub-title>
+    <desc lang="en">San Antonio Spurs at Miami Heat. From Kaseya Center.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241016080000 +0000" stop="20241016083000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016083000 +0000" stop="20241016090000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016090000 +0000" stop="20241016093000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016093000 +0000" stop="20241016100000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016100000 +0000" stop="20241016103000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016103000 +0000" stop="20241016110000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016110000 +0000" stop="20241016113000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016113000 +0000" stop="20241016120000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016120000 +0000" stop="20241016123000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016123000 +0000" stop="20241016130000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016130000 +0000" stop="20241016133000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016133000 +0000" stop="20241016140000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241016140000 +0000" stop="20241016160000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Golden State Warriors vs. Los Angeles Lakers</sub-title>
+    <desc lang="en">Golden State Warriors vs. Los Angeles Lakers. From T-Mobile Arena in Las Vegas.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241016160000 +0000" stop="20241016161500 +0000" channel="NBA TV">
+    <title lang="en">Milwaukee Bucks Team Preview</title>
+    <sub-title lang="en">Milwaukee Bucks</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241016161500 +0000" stop="20241016163000 +0000" channel="NBA TV">
+    <title lang="en">New Orleans Pelicans Team Preview</title>
+    <sub-title lang="en">New Orleans Pelicans</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241016163000 +0000" stop="20241016164500 +0000" channel="NBA TV">
+    <title lang="en">Chicago Bulls Team Preview</title>
+    <sub-title lang="en">Chicago Bulls</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241016164500 +0000" stop="20241016170000 +0000" channel="NBA TV">
+    <title lang="en">Houston Rockets Team Preview</title>
+    <sub-title lang="en">Houston Rockets</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241016170000 +0000" stop="20241016171500 +0000" channel="NBA TV">
+    <title lang="en">Denver Nuggets Team Preview</title>
+    <sub-title lang="en">Denver Nuggets</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241016171500 +0000" stop="20241016173000 +0000" channel="NBA TV">
+    <title lang="en">Minnesota Timberwolves Team Preview</title>
+    <sub-title lang="en">Minnesota Timberwolves</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241016173000 +0000" stop="20241016174500 +0000" channel="NBA TV">
+    <title lang="en">Orlando Magic Team Preview</title>
+    <sub-title lang="en">Orlando Magic</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241016174500 +0000" stop="20241016180000 +0000" channel="NBA TV">
+    <title lang="en">Oklahoma City Thunder Team Preview</title>
+    <sub-title lang="en">Oklahoma City Thunder</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241016180000 +0000" stop="20241016200000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">San Antonio Spurs at Miami Heat</sub-title>
+    <desc lang="en">San Antonio Spurs at Miami Heat. From Kaseya Center.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241016200000 +0000" stop="20241016213000 +0000" channel="NBA TV">
+    <title lang="en">WNBA Finals</title>
+    <sub-title lang="en">Game 1: Minnesota Lynx at New York Liberty</sub-title>
+    <desc lang="en">Minnesota Lynx at New York Liberty in Game 1 of the best-of-five WNBA championship series. From Barclays Center. Napheesa Collier is a catalyst on both ends of the floor for the four-time champion Lynx, in their first Finals since 2017. Two-time MVP Breanna Stewart anchors the Liberty&apos;s sixth quest for their first title.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241016213000 +0000" stop="20241016230000 +0000" channel="NBA TV">
+    <title lang="en">WNBA Finals</title>
+    <sub-title lang="en">Game 2: Minnesota Lynx at New York Liberty</sub-title>
+    <desc lang="en">Minnesota Lynx at New York Liberty in Game 2 of the best-of-five WNBA championship series. From Barclays Center. Breanna Stewart and the Liberty (0-5 in Finals appearances) try to shake off an unlikely loss in Game 1, when the Lynx rallied from 15 points down with 5:20 to play, forced overtime, and won 95-93. Courtney Williams, Napheesa Collier and Kayla McBride all topped 20 points for Minnesota, a franchise first.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241016230000 +0000" stop="20241017013000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Cleveland Cavaliers at Detroit Pistons</sub-title>
+    <desc lang="en">Cleveland Cavaliers at Detroit Pistons. From Little Caesars Arena. (Live).</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20241017013000 +0000" stop="20241017014500 +0000" channel="NBA TV">
+    <title lang="en">Los Angeles Lakers Team Preview</title>
+    <sub-title lang="en">Los Angeles Lakers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017014500 +0000" stop="20241017020000 +0000" channel="NBA TV">
+    <title lang="en">Boston Celtics Team Preview</title>
+    <sub-title lang="en">Boston Celtics</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017020000 +0000" stop="20241017021500 +0000" channel="NBA TV">
+    <title lang="en">New York Knicks Team Preview</title>
+    <sub-title lang="en">New York Knicks</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017021500 +0000" stop="20241017023000 +0000" channel="NBA TV">
+    <title lang="en">Philadelphia 76ers Team Preview</title>
+    <sub-title lang="en">Philadelphia 76ers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017023000 +0000" stop="20241017030000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017030000 +0000" stop="20241017033000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017033000 +0000" stop="20241017053000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Golden State Warriors vs. Los Angeles Lakers</sub-title>
+    <desc lang="en">Golden State Warriors vs. Los Angeles Lakers. From T-Mobile Arena in Las Vegas.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241017053000 +0000" stop="20241017060000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA. (Live).</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017060000 +0000" stop="20241017080000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Cleveland Cavaliers at Detroit Pistons</sub-title>
+    <desc lang="en">Cleveland Cavaliers at Detroit Pistons. From Little Caesars Arena.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241017080000 +0000" stop="20241017083000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017083000 +0000" stop="20241017090000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017090000 +0000" stop="20241017093000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017093000 +0000" stop="20241017100000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017100000 +0000" stop="20241017120000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Golden State Warriors vs. Los Angeles Lakers</sub-title>
+    <desc lang="en">Golden State Warriors vs. Los Angeles Lakers. From T-Mobile Arena in Las Vegas.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241017120000 +0000" stop="20241017123000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017123000 +0000" stop="20241017130000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017130000 +0000" stop="20241017150000 +0000" channel="NBA TV">
+    <title lang="en">NBA Preseason Basketball</title>
+    <sub-title lang="en">Cleveland Cavaliers at Detroit Pistons</sub-title>
+    <desc lang="en">Cleveland Cavaliers at Detroit Pistons. From Little Caesars Arena.</desc>
+    <date>2024</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20241017150000 +0000" stop="20241017153000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017153000 +0000" stop="20241017160000 +0000" channel="NBA TV">
+    <title lang="en">NBA GameTime</title>
+    <desc lang="en">The latest news, scores, highlights and analysis from around the NBA.</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20241017160000 +0000" stop="20241017161500 +0000" channel="NBA TV">
+    <title lang="en">Los Angeles Lakers Team Preview</title>
+    <sub-title lang="en">Los Angeles Lakers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017161500 +0000" stop="20241017163000 +0000" channel="NBA TV">
+    <title lang="en">Boston Celtics Team Preview</title>
+    <sub-title lang="en">Boston Celtics</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017163000 +0000" stop="20241017164500 +0000" channel="NBA TV">
+    <title lang="en">New York Knicks Team Preview</title>
+    <sub-title lang="en">New York Knicks</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017164500 +0000" stop="20241017170000 +0000" channel="NBA TV">
+    <title lang="en">Philadelphia 76ers Team Preview</title>
+    <sub-title lang="en">Philadelphia 76ers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017170000 +0000" stop="20241017171500 +0000" channel="NBA TV">
+    <title lang="en">Golden State Warriors Team Preview</title>
+    <sub-title lang="en">Golden State Warriors</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017171500 +0000" stop="20241017173000 +0000" channel="NBA TV">
+    <title lang="en">Dallas Mavericks Team Preview</title>
+    <sub-title lang="en">Dallas Mavericks</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017173000 +0000" stop="20241017174500 +0000" channel="NBA TV">
+    <title lang="en">Atlanta Hawks Team Preview</title>
+    <sub-title lang="en">Atlanta Hawks</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017174500 +0000" stop="20241017180000 +0000" channel="NBA TV">
+    <title lang="en">Sacramento Kings Team Preview</title>
+    <sub-title lang="en">Sacramento Kings</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017180000 +0000" stop="20241017181500 +0000" channel="NBA TV">
+    <title lang="en">Cleveland Cavaliers Team Preview</title>
+    <sub-title lang="en">Cleveland Cavaliers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017181500 +0000" stop="20241017183000 +0000" channel="NBA TV">
+    <title lang="en">Indiana Pacers Team Preview</title>
+    <sub-title lang="en">Indiana Pacers</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017183000 +0000" stop="20241017200000 +0000" channel="NBA TV">
+    <title lang="en">WNBA Finals</title>
+    <sub-title lang="en">Game 1: Minnesota Lynx at New York Liberty</sub-title>
+    <desc lang="en">Minnesota Lynx at New York Liberty in Game 1 of the best-of-five WNBA championship series. From Barclays Center. Napheesa Collier is a catalyst on both ends of the floor for the four-time champion Lynx, in their first Finals since 2017. Two-time MVP Breanna Stewart anchors the Liberty&apos;s sixth quest for their first title.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017200000 +0000" stop="20241017213000 +0000" channel="NBA TV">
+    <title lang="en">WNBA Finals</title>
+    <sub-title lang="en">Game 2: Minnesota Lynx at New York Liberty</sub-title>
+    <desc lang="en">Minnesota Lynx at New York Liberty in Game 2 of the best-of-five WNBA championship series. From Barclays Center. Breanna Stewart and the Liberty (0-5 in Finals appearances) try to shake off an unlikely loss in Game 1, when the Lynx rallied from 15 points down with 5:20 to play, forced overtime, and won 95-93. Courtney Williams, Napheesa Collier and Kayla McBride all topped 20 points for Minnesota, a franchise first.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017213000 +0000" stop="20241017230000 +0000" channel="NBA TV">
+    <title lang="en">WNBA Finals</title>
+    <sub-title lang="en">Game 3: New York Liberty at Minnesota Lynx</sub-title>
+    <desc lang="en">New York Liberty at Minnesota Lynx in Game 3 of the best-of-five WNBA championship series. From Target Center.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241017230000 +0000" stop="20241018003000 +0000" channel="NBA TV">
+    <title lang="en">WNBA Finals</title>
+    <sub-title lang="en">Game 1: Minnesota Lynx at New York Liberty</sub-title>
+    <desc lang="en">Minnesota Lynx at New York Liberty in Game 1 of the best-of-five WNBA championship series. From Barclays Center. Napheesa Collier is a catalyst on both ends of the floor for the four-time champion Lynx, in their first Finals since 2017. Two-time MVP Breanna Stewart anchors the Liberty&apos;s sixth quest for their first title.</desc>
+    <date>2024</date>
   </programme>
   <programme start="20241015001500 +0200" stop="20241015020500 +0200" channel="Ziggo 1 Holanda">
     <title lang="nl">UEFA Nations League</title>
@@ -12095,289 +12996,289 @@
     <title lang="cs">Nashville Predators - Edmonton Oilers</title>
     <desc lang="cs">Přímý přenos hokejového zápasu NHL (v přest.: NHL News).</desc>
   </programme>
-  <programme start="20241014070000 +0300" stop="20241014090000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014070000 +0300" stop="20241014090000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241014090000 +0300" stop="20241014110000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014090000 +0300" stop="20241014110000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241014110000 +0300" stop="20241014130000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014110000 +0300" stop="20241014130000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241014130000 +0300" stop="20241014150000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014130000 +0300" stop="20241014150000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241014150000 +0300" stop="20241014170000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014150000 +0300" stop="20241014170000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241014170000 +0300" stop="20241014190000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014170000 +0300" stop="20241014190000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241014190000 +0300" stop="20241014210000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014190000 +0300" stop="20241014210000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Nations League: Azerbaidjan-Slovacia Grupe (etapa 4)</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241014210000 +0300" stop="20241014211500 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014210000 +0300" stop="20241014211500 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241014211500 +0300" stop="20241014214500 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014211500 +0300" stop="20241014214500 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Bundesliga: BUNDESLIGA WEEKLY</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241014214500 +0300" stop="20241014234500 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014214500 +0300" stop="20241014234500 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Nations League: Germania-Tarile de Jos Grupe (etapa 4)</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241014234500 +0300" stop="20241015020000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241014234500 +0300" stop="20241015020000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015020000 +0300" stop="20241015043000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015020000 +0300" stop="20241015043000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015043000 +0300" stop="20241015070000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015043000 +0300" stop="20241015070000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015070000 +0300" stop="20241015090000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015070000 +0300" stop="20241015090000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015090000 +0300" stop="20241015110000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015090000 +0300" stop="20241015110000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015110000 +0300" stop="20241015130000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015110000 +0300" stop="20241015130000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015130000 +0300" stop="20241015150000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015130000 +0300" stop="20241015150000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015150000 +0300" stop="20241015170000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015150000 +0300" stop="20241015170000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015170000 +0300" stop="20241015193000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015170000 +0300" stop="20241015193000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015193000 +0300" stop="20241015194500 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015193000 +0300" stop="20241015194500 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015194500 +0300" stop="20241015213000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015194500 +0300" stop="20241015213000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Handbal: Chrobry Glogow-CSM Constanta Handbal masculin European League (etapa 2)</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015213000 +0300" stop="20241015214500 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015213000 +0300" stop="20241015214500 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015214500 +0300" stop="20241015234500 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015214500 +0300" stop="20241015234500 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Nations League: Spania-Serbia Grupe (etapa 4)</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241015234500 +0300" stop="20241016020000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241015234500 +0300" stop="20241016020000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016020000 +0300" stop="20241016043000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016020000 +0300" stop="20241016043000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016043000 +0300" stop="20241016070000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016043000 +0300" stop="20241016070000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016070000 +0300" stop="20241016090000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016070000 +0300" stop="20241016090000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016090000 +0300" stop="20241016110000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016090000 +0300" stop="20241016110000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016110000 +0300" stop="20241016130000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016110000 +0300" stop="20241016130000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016130000 +0300" stop="20241016150000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016130000 +0300" stop="20241016150000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016150000 +0300" stop="20241016170000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016150000 +0300" stop="20241016170000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016170000 +0300" stop="20241016190000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016170000 +0300" stop="20241016190000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016190000 +0300" stop="20241016210000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016190000 +0300" stop="20241016210000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016210000 +0300" stop="20241016233000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016210000 +0300" stop="20241016233000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241016233000 +0300" stop="20241017013000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241016233000 +0300" stop="20241017013000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017013000 +0300" stop="20241017030000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017013000 +0300" stop="20241017030000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017030000 +0300" stop="20241017043000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017030000 +0300" stop="20241017043000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017043000 +0300" stop="20241017070000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017043000 +0300" stop="20241017070000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017070000 +0300" stop="20241017090000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017070000 +0300" stop="20241017090000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017090000 +0300" stop="20241017110000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017090000 +0300" stop="20241017110000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017110000 +0300" stop="20241017130000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017110000 +0300" stop="20241017130000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017130000 +0300" stop="20241017150000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017130000 +0300" stop="20241017150000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017150000 +0300" stop="20241017170000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017150000 +0300" stop="20241017170000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017170000 +0300" stop="20241017190000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017170000 +0300" stop="20241017190000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017190000 +0300" stop="20241017203000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017190000 +0300" stop="20241017203000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017203000 +0300" stop="20241017214500 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017203000 +0300" stop="20241017214500 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017214500 +0300" stop="20241017233000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017214500 +0300" stop="20241017233000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Live Handbal: PSG-Dinamo Handbal masculin Champions League (etapa 5)</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme start="20241017233000 +0300" stop="20241018013000 +0300" channel="Digi 2 Rumania">
+  <programme start="20241017233000 +0300" stop="20241018013000 +0300" channel="Digi Sport 2 Rumania">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
