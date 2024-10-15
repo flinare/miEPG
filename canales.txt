@@ -4,6 +4,7 @@ ESPN.HDTV.(Dish).(ESPNHD).us,ESPN Usa,https://i.imgur.com/ZY71cCY.png
 ESPN2.HDTV.(Dish).(ESPN2HD).us,ESPN 2 Usa,https://i.imgur.com/00tsvjE.png
 Fox.Sports.1.HDTV.(FS1HD).us,Fox Sports 1 Usa,https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_1_10s.png
 Fox.Sports.2.HDTV.(FS2HD).us,Fox Sports 2 Usa,https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_2.png
+NBA.TV.HDTV.(NBA.HD).us,NBA TV
 Ziggo.Sport.nl,Ziggo 1 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/99.png
 Ziggo.Sport.2.nl,Ziggo 2 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/474.png
 Ziggo.Sport.3.nl,Ziggo 3 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/420.png
@@ -22,7 +23,7 @@ Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,http://www.sky.de/static/img/sende
 Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,http://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
 Nova.Sport.1.cz,Nova Sport 1,https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png
 Nova.Sport.2.cz,Nova Sport 2,https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png
-Digi.Sport.2.ro,Digi 2 Rumania,https://i.imgur.com/KWDUi3v.png
+Digi.Sport.2.ro,Digi Sport 2 Rumania,https://i.imgur.com/KWDUi3v.png
 Eleven Sports 1,Eleven Sports 1 Polonia
 Eleven Sports 2,Eleven Sports 2 Polonia
 Eleven Sports 3,Eleven Sports 3 Polonia
