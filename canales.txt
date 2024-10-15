@@ -1,25 +1,38 @@
 ESPN.PREMIUM.ar,ESPN Premium Argentina,https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png
 FOX.Sports.Premium.MEXICO.mx,Fox Sports Premium Mejico,https://es.m.wikipedia.org/wiki/Archivo:Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png
-Ziggo.Sport.nl,Ziggo 1 Holanda
-Ziggo.Sport.2.nl,Ziggo 2 Holanda
-Ziggo.Sport.3.nl,Ziggo 3 Holanda
-Ziggo.Sport.4.nl,Ziggo 4 Holanda
-ESPN.1.nl,ESPN Holanda
-ESPN.2.nl,ESPN 2 Holanda
-ESPN.3.nl,ESPN 3 Holanda
-ESPN.4.nl,ESPN 4 Holanda
-Digi.Sport.2.ro,Digi 2 Rumania,https://i.imgur.com/KWDUi3v.png
-DAZN.1.de,DAZN 1 Alemania,https://i.imgur.com/alzVFEm.png
-DAZN.2.de,DAZN 2 Alemania,https://i.imgur.com/m2YgWg7.png
-ORF.SPORT.+.de,ORF Sport+ Alemania
 ESPN.HDTV.(Dish).(ESPNHD).us,ESPN Usa,https://i.imgur.com/ZY71cCY.png
 ESPN2.HDTV.(Dish).(ESPN2HD).us,ESPN 2 Usa,https://i.imgur.com/00tsvjE.png
 Fox.Sports.1.HDTV.(FS1HD).us,Fox Sports 1 Usa,https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_1_10s.png
 Fox.Sports.2.HDTV.(FS2HD).us,Fox Sports 2 Usa,https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_2.png
-Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,https://www.thesportsdb.com/images/media/channel/logo/0pvnal1629913964.png
-Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,https://www.thesportsdb.com/images/media/channel/logo/gav8g21629913985.png
-ORF.SPORT.+.de,ORF Sport Alemania
-SPORT1+.de,Sport1+ Alemania
-SPORT1.de,Sport1 Alemania
+Ziggo.Sport.nl,Ziggo 1 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/99.png
+Ziggo.Sport.2.nl,Ziggo 2 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/474.png
+Ziggo.Sport.3.nl,Ziggo 3 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/420.png
+Ziggo.Sport.4.nl,Ziggo 4 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/490.png
+ESPN.1.nl,ESPN Holanda
+ESPN.2.nl,ESPN 2 Holanda
+ESPN.3.nl,ESPN 3 Holanda
+ESPN.4.nl,ESPN 4 Holanda
+DAZN.1.de,DAZN 1 Alemania,http://www.sky.de/static/img/senderlogos_dark/659_sky_logo_dazn1-hd_tvguide.png
+DAZN.2.de,DAZN 2 Alemania,http://www.sky.de/static/img/senderlogos_dark/900_sky_logo_dazn2-hd_tvguide.png
+Sky.Sport.1.de,Sky Sport 1 Alemania,http://ngiss.t-online.de/cm1s/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png
+ORF.SPORT.+.de,ORF Sport+ Alemania,https://images.tvtoday.de/sender/small/orfsp.png
+SPORT1+.de,Sport1+ Alemania,https://images.tvtoday.de/sender/small/s1plu.png
+SPORT1.de,Sport1 Alemania,https://images.tvtoday.de/sender/small/sport.png
+Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,http://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png
+Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,http://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
 Nova.Sport.1.cz,Nova Sport 1,https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png
 Nova.Sport.2.cz,Nova Sport 2,https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png
+Digi.Sport.2.ro,Digi 2 Rumania,https://i.imgur.com/KWDUi3v.png
+Eleven Sports 1,Eleven Sports 1 Polonia
+Eleven Sports 2,Eleven Sports 2 Polonia
+Eleven Sports 3,Eleven Sports 3 Polonia
+Eleven Sports 4,Eleven Sports 4 Polonia
+Canal+ Sport,Canal+ Sport Polonia
+Canal+ Sport 2,Canal+ Sport 2 Polonia
+Canal+ Sport 3,Canal+ Sport 3 Polonia
+Canal+ Sport 4,Canal+ Sport 4 Polonia
+Canal+ Sport 5,Canal+ Sport 5 Polonia
+Polsat Sport,Polsat Sport Polonia
+Polsat Sport Extra,Polsat Sport Extra Polonia
+Polsat Sport Premium 1,Polsat Sport Premium 1 Polonia
+Polsat Sport Premium 2,Polsat Sport Premium 2 Polonia
