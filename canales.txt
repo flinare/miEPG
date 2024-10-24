@@ -23,6 +23,7 @@ Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,http://www.sky.de/static/img/sende
 Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,http://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
 Nova.Sport.1.cz,Nova Sport 1,https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png
 Nova.Sport.2.cz,Nova Sport 2,https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png
+Canal.plus.Sport.CZ.cz,Canal+ Sport Rep Checa
 Digi.Sport.2.ro,Digi Sport 2 Rumania,https://i.imgur.com/KWDUi3v.png
 Eleven Sports 1,Eleven Sports 1 Polonia
 Eleven Sports 2,Eleven Sports 2 Polonia
