@@ -1,5 +1,3 @@
-ESPNPremium.ar,ESPN Premium Argentina,https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png
-FOX Sports Premium,Fox.Sports.Latin.America.(Cono.Norte).(FSA).mx,https://es.m.wikipedia.org/wiki/Archivo:Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png
 ESPN.HDTV.(Dish).(ESPNHD).us,ESPN Usa,https://i.imgur.com/ZY71cCY.png
 ESPN2.HDTV.(Dish).(ESPN2HD).us,ESPN 2 Usa,https://i.imgur.com/00tsvjE.png
 Fox.Sports.1.HDTV.(FS1HD).us,Fox Sports 1 Usa,https://es.m.wikipedia.org/wiki/Archivo:Fox_sports_1_10s.png
