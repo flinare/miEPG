@@ -4,4 +4,4 @@ https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz
 https://epg.ovh/pl.xml
-https://www.bevy.be/bevyfiles/argentina.xml.txt
+
