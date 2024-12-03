@@ -4,10 +4,10 @@ Fox.Sports.1.HDTV.(FS1HD).us,Fox Sports 1 Usa,https://upload.wikimedia.org/wikip
 Fox.Sports.2.HDTV.(FS2HD).us,Fox Sports 2 Usa,https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png
 FOX SPORTS PREMIUM.mx,Fox Sports Premium Mejico,https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png
 NBA.TV.HDTV.(NBA.HD).us,NBA TV
-Ziggo.Sport.nl,Ziggo 1 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/99.png
-Ziggo.Sport.2.nl,Ziggo 2 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/474.png
-Ziggo.Sport.3.nl,Ziggo 3 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/420.png
-Ziggo.Sport.4.nl,Ziggo 4 Holanda,https://tvgidsassets.nl/v340/img/channels/120x120/490.png
+Ziggo.Sport.nl,Ziggo 1 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544009-Logo_Ziggo%20Sport_White_RGB-93f813-large-1719574308.png
+Ziggo.Sport.2.nl,Ziggo 2 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544010-Logo_Ziggo%20Sport%202_White_RGB-11eccd-large-1719574308.png
+Ziggo.Sport.3.nl,Ziggo 3 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544013-Logo_Ziggo%20Sport%203_White_RGB-2f1656-large-1719574308.png
+Ziggo.Sport.4.nl,Ziggo 4 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544012-Logo_Ziggo%20Sport%204_White_RGB-9f7b54-large-1719574308.png
 ESPN.1.nl,ESPN Holanda
 ESPN.2.nl,ESPN 2 Holanda
 ESPN.3.nl,ESPN 3 Holanda
@@ -23,7 +23,6 @@ Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,http://www.sky.de/static/img/sende
 Nova.Sport.1.cz,Nova Sport 1,https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png
 Nova.Sport.2.cz,Nova Sport 2,https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png
 Canal.plus.Sport.CZ.cz,Canal+ Sport Rep Checa,https://seeklogo.com/images/C/Canal_Plus-logo-3639F8A83B-seeklogo.com.png
-Digi.Sport.2.ro,Digi Sport 2 Rumania,https://i.imgur.com/KWDUi3v.png
 Eleven Sports 1,Eleven Sports 1 Polonia
 Eleven Sports 2,Eleven Sports 2 Polonia
 Eleven Sports 3,Eleven Sports 3 Polonia
