@@ -6,6 +6,7 @@ FOX SPORTS PREMIUM.mx,Fox Sports Premium Mejico,https://upload.wikimedia.org/wik
 NBA.TV.HDTV.(NBA.HD).us,NBA TV
 CBS.Sports.Network.USA.us,CBS SPORTS NETWORK
 CNN.us,CNN TV
+Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
 Ziggo.Sport.nl,Ziggo 1 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544009-Logo_Ziggo%20Sport_White_RGB-93f813-large-1719574308.png
 Ziggo.Sport.2.nl,Ziggo 2 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544010-Logo_Ziggo%20Sport%202_White_RGB-11eccd-large-1719574308.png
 Ziggo.Sport.3.nl,Ziggo 3 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544013-Logo_Ziggo%20Sport%203_White_RGB-2f1656-large-1719574308.png
