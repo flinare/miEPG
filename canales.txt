@@ -47,6 +47,7 @@ DAZN 3 HD,DAZN 3 HD
 DAZN 4 HD,DAZN 4 HD
 DAZN F1 HD,DAZN F1 HD
 FIFA+,FIFA+
+LaLiga TV BAR HD,LaLiga TV BAR HD
 M+ LaLiga TV HD,M+ LaLiga TV HD
 M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
 M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
@@ -72,6 +73,9 @@ M+ Deportes 6,M+ Deportes 6
 M+ Deportes 7,M+ Deportes 7
 M+ Deportes 8,M+ Deportes 8
 M+ Copa del Rey,M+ Copa del Rey
+LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD
+LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
+LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
 M+ Vamos HD,M+ Vamos HD
 Movistar Plus+ HD,Movistar Plus+ HD
 Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
@@ -79,5 +83,48 @@ Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
 M+ Golf HD,M+ Golf HD
 M+ Golf 2 HD,M+ Golf 2 HD
+
+M+ PopUp,M+ PopUp
+M+ PopUp 2,M+ PopUp 2
+M+ Hits HD,M+ Hits HD
+M+ Estrenos HD,M+ Estrenos HD
+M+ Acción HD,M+ Acción HD
+M+ Drama HD,M+ Drama HD
+M+ Comedia HD,M+ Comedia HD
+M+ Cine Español,M+ Cine Español
+M+ Clásicos HD,M+ Clásicos HD
+M+ Documentales HD,M+ Documentales HD
+M+ Indie HD,M+ Indie HD
+M+ Originales HD,M+ Originales HD
+
+AMC HD,AMC HD
+AMC Crime.AMC Crime
+AMC Break,AMC Break
+AXN HD,AXN HD
+AXN Movies HD,AXN Movies HD
+Calle 13 HD,Calle 13 HD
+Canal Hollywood HD,Canal Hollywood HD
+Cosmo HD,Cosmo HD
+DARK,DARK
+Dreamworks HD,Dreamworks HD
+SELEKT,SELEKT
+STAR Channel HD,STAR Channel HD
+SkyShowtime,SkyShowtime
+Somos,Somos
+Sundance TV,Sundance TV
+SyFy HD,SyFy HD
+TCM HD,TCM HD
+Warner TV HD,Warner TV HD
+XTRM,XTRM
+
+La 1 HD,La 1 HD
+La 2,La 2
+Antena 3 HD,Antena 3 HD
+Cuatro HD,Cuatro HD
+Telecinco HD,Telecinco HD
+La Sexta HD,La Sexta HD
+
+
+
 
 
