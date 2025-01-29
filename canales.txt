@@ -38,3 +38,46 @@ Polsat Sport,Polsat Sport Polonia
 Polsat Sport Extra,Polsat Sport Extra Polonia
 Polsat Sport Premium 1,Polsat Sport Premium 1 Polonia
 Polsat Sport Premium 2,Polsat Sport Premium 2 Polonia
+
+DAZN LaLiga HD,DAZN LaLiga HD
+DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
+DAZN 1 HD,DAZN 1 HD
+DAZN 2 HD,DAZN 2 HD
+DAZN 3 HD,DAZN 3 HD
+DAZN 4 HD,DAZN 4 HD
+DAZN F1 HD,DAZN F1 HD
+FIFA+,FIFA+
+M+ LaLiga TV HD,M+ LaLiga TV HD
+M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
+M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
+M+ LaLiga TV 4,M+ LaLiga TV 4
+M+ Liga de Campeones HD,M+ Liga de Campeones HD
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2 HD
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3 HD
+M+ Liga de Campeones 4,M+ Liga de Campeones 4
+M+ Liga de Campeones 5,M+ Liga de Campeones 5
+M+ Liga de Campeones 6,M+ Liga de Campeones 6
+M+ Liga de Campeones 7,M+ Liga de Campeones 7
+M+ Liga de Campeones 8,M+ Liga de Campeones 8
+M+ Liga de Campeones 9,M+ Liga de Campeones 9
+M+ Liga de Campeones 10,M+ Liga de Campeones 10
+M+ Liga de Campeones 11,M+ Liga de Campeones 11
+M+ Liga de Campeones 12,M+ Liga de Campeones 12
+M+ Deportes HD,M+ Deportes HD
+M+ Deportes 2 HD,M+ Deportes 2 HD
+M+ Deportes 3,M+ Deportes 3
+M+ Deportes 4,M+ Deportes 4
+M+ Deportes 5,M+ Deportes 5
+M+ Deportes 6,M+ Deportes 6
+M+ Deportes 7,M+ Deportes 7
+M+ Deportes 8,M+ Deportes 8
+M+ Copa del Rey,M+ Copa del Rey
+M+ Vamos HD,M+ Vamos HD
+Movistar Plus+ HD,Movistar Plus+ HD
+Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
+Eurosport 1 HD,Eurosport 1 HD
+Eurosport 2,Eurosport 2
+M+ Golf HD,M+ Golf HD
+M+ Golf 2 HD,M+ Golf 2 HD
+
+
