@@ -1,16 +1,17 @@
-ESPN.HDTV.(Dish).(ESPNHD).us,ESPN Usa,https://i.imgur.com/ZY71cCY.png
-ESPN2.HDTV.(Dish).(ESPN2HD).us,ESPN 2 Usa,https://i.imgur.com/00tsvjE.png
-Fox.Sports.1.HDTV.(FS1HD).us,Fox Sports 1 Usa,https://upload.wikimedia.org/wikipedia/commons/a/ad/Fox_sports_1_10s.png
-Fox.Sports.2.HDTV.(FS2HD).us,Fox Sports 2 Usa,https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png
+ESPN.us,ESPN Usa,https://i.imgur.com/ZY71cCY.png
+ESPN2.us,ESPN 2 Usa,https://i.imgur.com/00tsvjE.png
+Fox.Sports.1.us,Fox Sports 1 Usa,https://upload.wikimedia.org/wikipedia/commons/a/ad/Fox_sports_1_10s.png
+Fox.Sports.2.us,Fox Sports 2 Usa,https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png
 FOX SPORTS PREMIUM.mx,Fox Sports Premium Mejico,https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png
 NBA.TV.HDTV.(NBA.HD).us,NBA TV
 CBS.Sports.Network.USA.us,CBS SPORTS NETWORK
-CNN.us,CNN TV
+CNN.us,CNN
 Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
 Ziggo.Sport.nl,Ziggo 1 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544009-Logo_Ziggo%20Sport_White_RGB-93f813-large-1719574308.png
 Ziggo.Sport.2.nl,Ziggo 2 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544010-Logo_Ziggo%20Sport%202_White_RGB-11eccd-large-1719574308.png
 Ziggo.Sport.3.nl,Ziggo 3 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544013-Logo_Ziggo%20Sport%203_White_RGB-2f1656-large-1719574308.png
 Ziggo.Sport.4.nl,Ziggo 4 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544012-Logo_Ziggo%20Sport%204_White_RGB-9f7b54-large-1719574308.png
+Ziggo.Sport.6.nl,Ziggo 6 Holanda
 ESPN.1.nl,ESPN Holanda
 ESPN.2.nl,ESPN 2 Holanda
 ESPN.3.nl,ESPN 3 Holanda
