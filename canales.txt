@@ -26,19 +26,19 @@ SPORT1.de,Sport 1 Alemania,https://images.tvtoday.de/sender/small/sport.png
 Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,http://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png
 Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,http://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
 Canal.plus.Sport.CZ.cz,Canal+ Sport Rep Checa,https://seeklogo.com/images/C/Canal_Plus-logo-3639F8A83B-seeklogo.com.png
-Eleven Sports 1,Eleven Sports 1 Polonia
-Eleven Sports 2,Eleven Sports 2 Polonia
-Eleven Sports 3,Eleven Sports 3 Polonia
-Eleven Sports 4,Eleven Sports 4 Polonia
-Canal+ Sport,Canal+ Sport Polonia
-Canal+ Sport 2,Canal+ Sport 2 Polonia
-Canal+ Sport 3,Canal+ Sport 3 Polonia
-Canal+ Sport 4,Canal+ Sport 4 Polonia
-Canal+ Sport 5,Canal+ Sport 5 Polonia
-Polsat Sport,Polsat Sport Polonia
+Eleven.Sports.1.HD.pl,Eleven Sports 1 Polonia
+Eleven.Sports.2.HD.pl,Eleven Sports 2 Polonia
+Eleven.Sports.3.HD.pl,Eleven Sports 3 Polonia
+Eleven.Sports.4.HD.pl,Eleven Sports 4 Polonia
+CANAL+.Sport.HD.pl,Canal+ Sport Polonia
+CANAL+.Sport.2.HD.pl,Canal+ Sport 2 Polonia
+CANAL+.Sport.3.HD.pl,Canal+ Sport 3 Polonia
+CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia
+CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia
+Polsat.Sport.pl,Polsat Sport Polonia
 Polsat Sport Extra,Polsat Sport Extra Polonia
-Polsat Sport Premium 1,Polsat Sport Premium 1 Polonia
-Polsat Sport Premium 2,Polsat Sport Premium 2 Polonia
+Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1 Polonia
+Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2 Polonia
 DAZN LaLiga HD,DAZN LaLiga HD
 DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
 DAZN 1 HD,DAZN 1 HD
@@ -150,8 +150,6 @@ Paramount Network,Paramount Network
 Sol Música,Sol Música
 Squirrel TV,Squirrel TV
 Star TVE HD,Star TVE HD
-TRECE,TRECE
-Ten,Ten
 Tennis Channel,Tennis Channel
 DE | SPORT1+,DE | SPORT1+
 DE | SPORTDIGITAL FUSSBALL,DE | SPORTDIGITAL FUSSBALL
