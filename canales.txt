@@ -36,7 +36,7 @@ CANAL+.Sport.3.HD.pl,Canal+ Sport 3 Polonia
 CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia
 CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia
 Polsat.Sport.pl,Polsat Sport Polonia
-Polsat Sport Extra,Polsat Sport Extra Polonia
+Polsat.Sport.Extra.HD.pl,Polsat Sport Extra Polonia
 Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1 Polonia
 Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2 Polonia
 DAZN LaLiga HD,DAZN LaLiga HD
