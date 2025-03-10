@@ -129,6 +129,7 @@ Clan,Clan
 Comedy Central HD,Comedy Central HD
 DKISS,DKISS
 DMAX,DMAX
+Onetoro,Onetoro
 Discovery,Discovery
 Disney Junior,Disney Junior
 Divinity,Divinity
