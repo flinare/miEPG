@@ -82,6 +82,8 @@ Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
 M+ Golf HD,M+ Golf HD
 M+ Golf 2 HD,M+ Golf 2 HD
+FEF TV 1 Grupo 1,FEF TV 1 Grupo 1
+FEF TV 1 Grupo 2,FEF TV 1 Grupo 2
 M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
 M+ Hits HD,M+ Hits HD
