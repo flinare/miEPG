@@ -80,6 +80,7 @@ Movistar Plus+ HD,Movistar Plus+ HD
 Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
 Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
+Teledeporte,Teledeporte
 M+ Golf HD,M+ Golf HD
 M+ Golf 2 HD,M+ Golf 2 HD
 FEF TV 1 Grupo 1,FEF TV 1 Grupo 1
@@ -137,7 +138,6 @@ Energy,Energy
 Enfamilia,Enfamilia
 Factoría de Ficción,Factoría de Ficción
 Historia,Historia
-La Resistencia 24H,La Resistencia 24H
 M+ Ellas Vamos HD,M+ Ellas Vamos HD
 MTV España,MTV España
 Mega,Mega
@@ -168,7 +168,6 @@ PT | DAZN 3,PT | DAZN 3
 PT | DAZN 4,PT | DAZN 4
 PT | DAZN 5,PT | DAZN 5
 PT | DAZN 6,PT | DAZN 6
-PT | Sport TV NBA,PT | Sport TV NBA
 UK | Premier Sports 1,UK | Premier Sports 1
 UK | Premier Sports 2,UK | Premier Sports 2
 UK | Sky Sport Arena,UK | Sky Sport Arena
