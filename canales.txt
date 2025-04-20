@@ -5,7 +5,11 @@ Fox.Sports.2.us,Fox Sports 2 Usa,https://epg.ovh/logo/FOX+SPORTS+2.png
 NBA.TV.USA.us,NBA TV,https://epg.ovh/logo/NBA+TV+HD.png
 CBS.Sports.Network.USA.us,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
 CNN.us,CNN
+POP.-.East.us,Popstar! TV
+Pursuit.Channel.us,PursuitUP
+ESPN.U.us,ESPN U
 Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
+plex.tv.Space.Science.Now.plex,Space Series
 BBC World News Europe HD,BBC World News Europe
 Ziggo.Sport.nl,Ziggo 1 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544009-Logo_Ziggo%20Sport_White_RGB-93f813-large-1719574308.png
 Ziggo.Sport.2.nl,Ziggo 2 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544010-Logo_Ziggo%20Sport%202_White_RGB-11eccd-large-1719574308.png
@@ -106,12 +110,10 @@ Calle 13 HD,Calle 13 HD
 Canal Hollywood HD,Canal Hollywood HD
 Cosmo HD,Cosmo HD
 DARK,DARK
-Dreamworks HD,Dreamworks HD
 SELEKT,SELEKT
 STAR Channel HD,STAR Channel HD
 SkyShowtime,SkyShowtime
 Somos,Somos
-Sundance TV,Sundance TV
 SyFy HD,SyFy HD
 TCM HD,TCM HD
 Warner TV HD,Warner TV HD
