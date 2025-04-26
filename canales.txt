@@ -12,6 +12,14 @@ ESPN.U.us,ESPN U
 Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
 plex.tv.Space.Science.Now.plex,Space Series
 plex.tv.Impossible.-.Quiz.Show.plex,Impossible Quiz Show
+plex.tv.BBC.Earth.plex,BBC Earth
+plex.tv.Motorsport.tv.plex,Motorsport
+plex.tv.Cheddar.plex,Cheddar
+plex.tv.Newsmax2.plex,Newsmax 2
+plex.tv.Supermarket.Sweep.plex, Supermarket Sweep
+plex.tv.Stadium.plex,Stadium
+plex.tv.Deal.Or.No.Deal.plex,Deal or no deal
+plex.tv.Dance.Moms.by.Lifetime.plex, Dance Moms
 BBC World News Europe HD,BBC World News Europe
 Ziggo.Sport.nl,Ziggo 1 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544009-Logo_Ziggo%20Sport_White_RGB-93f813-large-1719574308.png
 Ziggo.Sport.2.nl,Ziggo 2 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544010-Logo_Ziggo%20Sport%202_White_RGB-11eccd-large-1719574308.png
