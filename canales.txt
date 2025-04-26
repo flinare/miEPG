@@ -13,11 +13,13 @@ Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.
 plex.tv.Space.Science.Now.plex,Space Series
 plex.tv.Impossible.-.Quiz.Show.plex,Impossible Quiz Show
 plex.tv.BBC.Earth.plex,BBC Earth
-plex.tv.Motorsport.tv.plex,Motorsport
-plex.tv.Cheddar.plex,Cheddar
-plex.tv.Newsmax2.plex,Newsmax 2
+plex.tv.WildEarth.plex,WildEarth
+plex.tv.GoUSA.TV.plex,GoUSA TV
+plex.tv.Motorsport.tv.plex,Motorsport.tv
+plex.tv.Cheddar.plex,Cheddar USA
+plex.tv.Newsmax2.plex,Newsmax 2 TV USA
 plex.tv.Supermarket.Sweep.plex, Supermarket Sweep
-plex.tv.Stadium.plex,Stadium
+plex.tv.Stadium.plex,Stadium USA
 plex.tv.Deal.Or.No.Deal.plex,Deal or no deal
 plex.tv.Dance.Moms.by.Lifetime.plex, Dance Moms
 BBC World News Europe HD,BBC World News Europe
