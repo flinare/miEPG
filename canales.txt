@@ -7,6 +7,7 @@ CBS.Sports.Network.USA.us,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
 NBC.Sports.us,NBC Sports
 CNN.us,CNN
 POP.-.East.us,Popstar! TV
+Lifetime.Network.US.-.Eastern.Feed.us,Lifetime
 Pursuit.Channel.us,PursuitUP
 ESPN.U.us,ESPN U
 Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
