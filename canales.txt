@@ -137,13 +137,9 @@ Cuatro HD,Cuatro HD
 Telecinco HD,Telecinco HD
 La Sexta HD,La Sexta HD
 24 Horas,24 Horas
-DMAX,DMAX
 Onetoro,Onetoro
 Discovery,Discovery
 Disney Junior,Disney Junior
-Divinity,Divinity
-Energy,Energy
-Enfamilia,Enfamilia
 Factoría de Ficción,Factoría de Ficción
 Historia,Historia
 M+ Ellas Vamos HD,M+ Ellas Vamos HD
