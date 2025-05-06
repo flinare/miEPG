@@ -11,14 +11,17 @@ Lifetime.Network.US.-.Eastern.Feed.us,Lifetime
 Pursuit.Channel.us,PursuitUP
 ESPN.U.us,ESPN U
 Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
+plex.tv.CBS.Sports.Golazo.Network.plex,CBS Sports Golazo Network
 plex.tv.CBS.News.plex,CBS News USA
 plex.tv.Space.Science.Now.plex,Space Series
 plex.tv.Impossible.-.Quiz.Show.plex,Impossible Quiz Show
 plex.tv.BBC.Earth.plex,BBC Earth
 plex.tv.WildEarth.plex,WildEarth
+plex.tv.Buen.Viaje.plex,Buen Viaje
 plex.tv.Love.Nature.plex,Love Nature en Espanol
 plex.tv.GoUSA.TV.plex,GoUSA TV
 plex.tv.Motorsport.tv.plex,Motorsport.tv
+plex.tv.Pac-12.Insider.plex,Pac-12 Insider
 plex.tv.Cheddar.plex,Cheddar USA
 plex.tv.BUZZR.plex,BUZZR TV
 plex.tv.Newsmax2.plex,Newsmax 2 TV USA
