@@ -7,7 +7,6 @@ CBS.Sports.Network.USA.us,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
 NBC.Sports.us,NBC Sports
 CNN.us,CNN
 POP.-.East.us,Popstar! TV
-Lifetime.Network.US.-.Eastern.Feed.us,Lifetime
 Pursuit.Channel.us,PursuitUP
 ESPN.U.us,ESPN U
 Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
@@ -73,6 +72,7 @@ DAZN 3 HD,DAZN 3 HD
 DAZN 4 HD,DAZN 4 HD
 DAZN F1 HD,DAZN F1 HD
 FIFA+,FIFA+
+Top Barça,Top Barça
 LaLiga TV BAR HD,LaLiga TV BAR HD
 M+ LaLiga TV HD,M+ LaLiga TV HD
 M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
@@ -165,7 +165,6 @@ Squirrel TV,Squirrel TV
 Star TVE HD,Star TVE HD
 Tennis Channel,Tennis Channel
 ES:.Â¡HOLA!.Play.es,¡HOLA! Play
-DE | DAZN
 DE | DAZN 1
 DE | DAZN 2
 DE | SPORT1+,DE | SPORT1+
