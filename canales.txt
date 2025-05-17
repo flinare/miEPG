@@ -164,7 +164,6 @@ Sol Música,Sol Música
 Squirrel TV,Squirrel TV
 Star TVE HD,Star TVE HD
 Tennis Channel,Tennis Channel
-ES:.Â¡HOLA!.Play.es,¡HOLA! Play
 DE | DAZN 1
 DE | DAZN 2
 DE | SPORT1+,DE | SPORT1+
