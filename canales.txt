@@ -18,7 +18,6 @@ plex.tv.BBC.Earth.plex,BBC Earth
 plex.tv.WildEarth.plex,WildEarth
 plex.tv.Buen.Viaje.plex,Buen Viaje
 plex.tv.Love.Nature.plex,Love Nature en Espanol
-plex.tv.GoUSA.TV.plex,GoUSA TV
 plex.tv.Motorsport.tv.plex,Motorsport.tv
 plex.tv.Pac-12.Insider.plex,Pac-12 Insider
 plex.tv.Cheddar.plex,Cheddar USA
