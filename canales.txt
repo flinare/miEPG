@@ -152,6 +152,7 @@ Factoría de Ficción,Factoría de Ficción
 Historia,Historia
 M+ Ellas Vamos HD,M+ Ellas Vamos HD
 MTV España,MTV España
+MTV Hits HD,MTV Hits
 Mega,Mega
 Nat Geo Wild HD,Nat Geo Wild HD
 National Geographic HD,National Geographic HD
