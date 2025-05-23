@@ -6,6 +6,8 @@ NBA.TV.USA.us,NBA TV,https://epg.ovh/logo/NBA+TV+HD.png
 CBS.Sports.Network.USA.us,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
 NBC.Sports.us,NBC Sports
 CNN.us,CNN
+Turner.Classic.Movies.USA.us,Turner Classic Movies
+HBO.Comedy.HD.-.East.us,HBO Comedy
 POP.-.East.us,Popstar! TV
 Pursuit.Channel.us,PursuitUP
 ESPN.U.us,ESPN U
