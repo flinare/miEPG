@@ -1,13 +1,17 @@
-ESPN.us,ESPN Usa,https://epg.ovh/logo/ESPN.png
-ESPN2.us,ESPN 2 Usa,https://epg.ovh/logo/ESPN+2.png
-Fox.Sports.1.us,Fox Sports 1 Usa,https://epg.ovh/logo/FOX+SPORTS.png
-Fox.Sports.2.us,Fox Sports 2 Usa,https://epg.ovh/logo/FOX+SPORTS+2.png
+ESPN.us,ESPN USA,https://epg.ovh/logo/ESPN.png
+ESPN2.us,ESPN 2 USA,https://epg.ovh/logo/ESPN+2.png
+Fox.Sports.1.us,Fox Sports 1 USA,https://epg.ovh/logo/FOX+SPORTS.png
+Fox.Sports.2.us,Fox Sports 2 USA,https://epg.ovh/logo/FOX+SPORTS+2.png
 NBA.TV.USA.us,NBA TV,https://epg.ovh/logo/NBA+TV+HD.png
 CBS.Sports.Network.USA.us,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
 NBC.Sports.us,NBC Sports
+ABC.NEWS.us,ABC News USA
 CNN.us,CNN
 Turner.Classic.Movies.USA.us,Turner Classic Movies
 HBO.Comedy.HD.-.East.us,HBO Comedy
+HBO.-.Eastern.Feed.us,HBO USA
+HBO.2.-.Eastern.Feed.us,HBO 2 USA
+E!.Entertainment.USA.-.Eastern.Feed.us,E! Entertainment USA
 POP.-.East.us,Popstar! TV
 Pursuit.Channel.us,PursuitUP
 ESPN.U.us,ESPN U
