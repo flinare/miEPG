@@ -1,12 +1,15 @@
 ESPN.us,ESPN USA,https://epg.ovh/logo/ESPN.png
 ESPN2.us,ESPN 2 USA,https://epg.ovh/logo/ESPN+2.png
+ESPN.U.us,ESPN U
 Fox.Sports.1.us,Fox Sports 1 USA,https://epg.ovh/logo/FOX+SPORTS.png
 Fox.Sports.2.us,Fox Sports 2 USA,https://epg.ovh/logo/FOX+SPORTS+2.png
 NBA.TV.USA.us,NBA TV,https://epg.ovh/logo/NBA+TV+HD.png
 CBS.Sports.Network.USA.us,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
 NBC.Sports.us,NBC Sports
 ABC.NEWS.us,ABC News USA
+Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
 CNN.us,CNN
+BBC World News Europe HD,BBC World News Europe
 Turner.Classic.Movies.USA.us,Turner Classic Movies
 HBO.Comedy.HD.-.East.us,HBO Comedy
 HBO.-.Eastern.Feed.us,HBO USA
@@ -14,8 +17,6 @@ HBO.2.-.Eastern.Feed.us,HBO 2 USA
 E!.Entertainment.USA.-.Eastern.Feed.us,E! Entertainment USA
 POP.-.East.us,Popstar! TV
 Pursuit.Channel.us,PursuitUP
-ESPN.U.us,ESPN U
-Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
 plex.tv.CBS.Sports.Golazo.Network.plex,CBS Sports Golazo Network
 plex.tv.CBS.News.plex,CBS News USA
 plex.tv.Space.Science.Now.plex,Space Series
@@ -36,7 +37,6 @@ TSN2.ca,TSN2
 TSN3.ca,TSN3
 TSN4.ca,TSN4
 TSN5.ca,TSN5
-BBC World News Europe HD,BBC World News Europe
 Ziggo.Sport.nl,Ziggo 1 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544009-Logo_Ziggo%20Sport_White_RGB-93f813-large-1719574308.png
 Ziggo.Sport.2.nl,Ziggo 2 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544010-Logo_Ziggo%20Sport%202_White_RGB-11eccd-large-1719574308.png
 Ziggo.Sport.3.nl,Ziggo 3 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544013-Logo_Ziggo%20Sport%203_White_RGB-2f1656-large-1719574308.png
@@ -48,7 +48,6 @@ ESPN.3.nl,ESPN 3 Holanda
 ESPN.4.nl,ESPN 4 Holanda
 DAZN.1.de,DAZN 1 Alemania,https://iptvboss.xyz/logos/Germany/DAZN1.de.png
 DAZN.2.de,DAZN 2 Alemania,https://iptvboss.xyz/logos/Germany/DAZN2.de.png
-Sky.Sport.1.de,Sky Sport 1 Alemania,http://ngiss.t-online.de/cm1s/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png
 ORF.SPORT.+.de,ORF Sport+ Alemania,https://images.tvtoday.de/sender/small/orfsp.png
 SPORT1+.de,Sport1+ Alemania,https://images.tvtoday.de/sender/small/s1plu.png
 SPORT1.de,Sport 1 Alemania,https://images.tvtoday.de/sender/small/sport.png
@@ -64,10 +63,10 @@ CANAL+.Sport.2.HD.pl,Canal+ Sport 2 Polonia
 CANAL+.Sport.3.HD.pl,Canal+ Sport 3 Polonia
 CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia
 CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia
-Polsat.Sport.pl,Polsat Sport Polonia
-Polsat.Sport.Extra.HD.pl,Polsat Sport Extra Polonia
-Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1 Polonia
-Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2 Polonia
+Polsat.Sport.pl,Polsat Sport
+Polsat.Sport.Extra.HD.pl,Polsat Sport Extra
+Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1
+Polsat.Sport.Premium.2.pl,Polsat Sport Premium 2
 DAZN LaLiga HD,DAZN LaLiga HD
 DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
 DAZN 1 HD,DAZN 1 HD
@@ -168,11 +167,9 @@ Sol Música,Sol Música
 Squirrel TV,Squirrel TV
 Star TVE HD,Star TVE HD
 Tennis Channel,Tennis Channel
-DE | DAZN 1
-DE | DAZN 2
 DE | SPORT1+,DE | SPORT1+
 DE | SPORTDIGITAL FUSSBALL,DE | SPORTDIGITAL FUSSBALL
-DE | Sky Sport 1,DE | Sky Sport 1
+DE | Sky Sport 1,Sky Sport 1 Alemania
 DE | Sky Sport Austria,DE | Sky Sport Austria
 DE | Sky Sport Bundesliga,DE | Sky Sport Bundesliga
 DE | Sky Sport F1,DE | Sky Sport F1
