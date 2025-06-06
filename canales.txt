@@ -21,7 +21,6 @@ plex.tv.CBS.Sports.Golazo.Network.plex,CBS Sports Golazo Network
 plex.tv.CBS.News.plex,CBS News USA
 plex.tv.Space.Science.Now.plex,Space Series
 plex.tv.Impossible.-.Quiz.Show.plex,Impossible Quiz Show
-plex.tv.BBC.Earth.plex,BBC Earth
 plex.tv.WildEarth.plex,WildEarth
 plex.tv.Buen.Viaje.plex,Buen Viaje
 plex.tv.Love.Nature.plex,Love Nature en Espanol
