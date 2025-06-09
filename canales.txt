@@ -9,7 +9,6 @@ NBC.Sports.us,NBC Sports
 ABC.NEWS.us,ABC News USA
 Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
 CNN.us,CNN
-BBC World News Europe HD,BBC World News Europe
 Turner.Classic.Movies.USA.us,Turner Classic Movies
 HBO.Comedy.HD.-.East.us,HBO Comedy
 HBO.-.Eastern.Feed.us,HBO USA
