@@ -5,7 +5,7 @@ Fox.Sports.1.us,Fox Sports 1 USA,https://epg.ovh/logo/FOX+SPORTS.png
 Fox.Sports.2.us,Fox Sports 2 USA,https://epg.ovh/logo/FOX+SPORTS+2.png
 NBA.TV.USA.us,NBA TV,https://epg.ovh/logo/NBA+TV+HD.png
 CBS.Sports.Network.USA.us,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
-NBC.Sports.us,NBC Sports
+NBC.Sports.us,NBC Sports,https://iptvboss.xyz/logos/USA/NBCSports4K.us.png
 ABC.NEWS.us,ABC News USA
 Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
 CNN.us,CNN
@@ -26,7 +26,6 @@ plex.tv.Stadium.plex,Stadium USA
 plex.tv.Deal.Or.No.Deal.plex,Deal or no deal
 plex.tv.Dance.Moms.by.Lifetime.plex,Dance Moms
 5f21e8a6e2f12b000755afdb,The Amazing Race
-63d0269d60bc8f000890facc,FOX Deportes
 65ea8b928145cb0008509426,UEFA Champions League
 TSN1.ca,TSN1
 TSN2.ca,TSN2
