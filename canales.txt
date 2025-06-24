@@ -7,7 +7,6 @@ NBA.TV.USA.us,NBA TV,https://epg.ovh/logo/NBA+TV+HD.png
 CBS.Sports.Network.USA.us,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
 NBC.Sports.us,NBC Sports
 ABC.NEWS.us,ABC News USA
-Fox.News.us,Fox.News.us,https://logowik.com/content/uploads/images/fox-news7378.jpg
 CNN.us,CNN
 Turner.Classic.Movies.USA.us,Turner Classic Movies
 HBO.Comedy.HD.-.East.us,HBO Comedy
