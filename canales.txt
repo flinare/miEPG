@@ -158,7 +158,9 @@ Paramount Network,Paramount Network
 Sol Música,Sol Música
 Squirrel TV,Squirrel TV
 Star TVE HD,Star TVE HD
+BuenViaje, Buen Viaje
 Tennis Channel,Tennis Channel
+beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ
 DE | SPORT1+,DE | SPORT1+
 DE | SPORTDIGITAL FUSSBALL,DE | SPORTDIGITAL FUSSBALL
 DE | Sky Sport 1,Sky Sport 1 Alemania
