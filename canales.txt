@@ -168,6 +168,7 @@ DE | Sky Sport F1,DE | Sky Sport F1
 FR | beIN SPORTS 1,FR | beIN SPORTS 1
 FR | beIN SPORTS 2,FR | beIN SPORTS 2
 FR | beIN SPORTS 3,FR | beIN SPORTS 3
+FR | L`ÉQUIPE,FR | L`ÉQUIPE
 UK | Premier Sports 1,UK | Premier Sports 1
 UK | Premier Sports 2,UK | Premier Sports 2
 UK | Sky Sport Arena,UK | Sky Sport Arena
