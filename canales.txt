@@ -1,6 +1,7 @@
 ESPN.us,ESPN USA,https://epg.ovh/logo/ESPN.png
 ESPN2.us,ESPN 2 USA,https://epg.ovh/logo/ESPN+2.png
 ESPN.U.us,ESPN U
+ESPN Deportes,ESPN Deportes
 Fox.Sports.1.us,Fox Sports 1 USA,https://epg.ovh/logo/FOX+SPORTS.png
 Fox.Sports.2.us,Fox Sports 2 USA,https://epg.ovh/logo/FOX+SPORTS+2.png
 NBA.TV.USA.us,NBA TV,https://epg.ovh/logo/NBA+TV+HD.png
