@@ -9,6 +9,7 @@ CBS.Sports.Network.USA.us,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
 NBC.Sports.us,NBC Sports
 ABC.NEWS.us,ABC News USA
 CNN.us,CNN
+BBC.1.nl,BBC One
 Turner.Classic.Movies.USA.us,Turner Classic Movies
 HBO.Comedy.HD.-.East.us,HBO Comedy
 HBO.-.Eastern.Feed.us,HBO USA
