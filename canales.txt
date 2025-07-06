@@ -45,7 +45,6 @@ SPORT1+.de,Sport1+ Alemania,https://images.tvtoday.de/sender/small/s1plu.png
 SPORT1.de,Sport 1 Alemania,https://images.tvtoday.de/sender/small/sport.png
 Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,http://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png
 Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,http://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
-Canal.plus.Sport.CZ.cz,Canal+ Sport Rep Checa,https://iptvboss.xyz/logos/Czech_Republic/CanalplusSportCZ.cz.png
 Eleven.Sports.1.HD.pl,Eleven Sports 1 Polonia
 Eleven.Sports.2.HD.pl,Eleven Sports 2 Polonia
 Eleven.Sports.3.HD.pl,Eleven Sports 3 Polonia
