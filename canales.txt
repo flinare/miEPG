@@ -144,7 +144,6 @@ Cuatro HD,Cuatro HD
 Telecinco HD,Telecinco HD
 La Sexta HD,La Sexta HD
 24 Horas,24 Horas
-Onetoro,Onetoro
 Discovery,Discovery
 Factoría de Ficción,Factoría de Ficción
 Historia,Historia
@@ -155,7 +154,6 @@ Mega,Mega
 Nat Geo Wild HD,Nat Geo Wild HD
 National Geographic HD,National Geographic HD
 Odisea,Odisea
-Paramount Network,Paramount Network
 Sol Música,Sol Música
 Squirrel TV,Squirrel TV
 Star TVE HD,Star TVE HD
