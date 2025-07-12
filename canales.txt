@@ -1,4 +1,4 @@
-DAZN TV,DAZN TV Canada
+647f07e74cfc2c0008a2e557,DAZN TV Canada
 ESPN.us,ESPN USA,https://epg.ovh/logo/ESPN.png
 ESPN2.us,ESPN 2 USA,https://epg.ovh/logo/ESPN+2.png
 ESPN.U.us,ESPN U
