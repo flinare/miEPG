@@ -31,11 +31,11 @@ TSN2.ca,TSN2
 TSN3.ca,TSN3
 TSN4.ca,TSN4
 TSN5.ca,TSN5
-Ziggo.Sport.nl,Ziggo 1 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544009-Logo_Ziggo%20Sport_White_RGB-93f813-large-1719574308.png
-Ziggo.Sport.2.nl,Ziggo 2 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544010-Logo_Ziggo%20Sport%202_White_RGB-11eccd-large-1719574308.png
-Ziggo.Sport.3.nl,Ziggo 3 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544013-Logo_Ziggo%20Sport%203_White_RGB-2f1656-large-1719574308.png
-Ziggo.Sport.4.nl,Ziggo 4 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544012-Logo_Ziggo%20Sport%204_White_RGB-9f7b54-large-1719574308.png
-Ziggo.Sport.6.nl,Ziggo 6 Holanda,https://iptvboss.xyz/logos/Netherlands/ZiggoSport6.nl.png
+Ziggo.Sport.nl,ZIGGO SPORT Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544009-Logo_Ziggo%20Sport_White_RGB-93f813-large-1719574308.png
+Ziggo.Sport.2.nl,ZIGGO SPORT 2 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544010-Logo_Ziggo%20Sport%202_White_RGB-11eccd-large-1719574308.png
+Ziggo.Sport.3.nl,ZIGGO SPORT 3 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544013-Logo_Ziggo%20Sport%203_White_RGB-2f1656-large-1719574308.png
+Ziggo.Sport.4.nl,ZIGGO SPORT 4 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544012-Logo_Ziggo%20Sport%204_White_RGB-9f7b54-large-1719574308.png
+Ziggo.Sport.6.nl,ZIGGO SPORT 6 Holanda,https://iptvboss.xyz/logos/Netherlands/ZiggoSport6.nl.png
 ESPN.1.nl,ESPN Holanda
 ESPN.2.nl,ESPN 2 Holanda
 ESPN.3.nl,ESPN 3 Holanda
