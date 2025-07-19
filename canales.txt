@@ -19,7 +19,6 @@ POP.-.East.us,Popstar! TV
 plex.tv.CBS.Sports.Golazo.Network.plex,CBS Sports Golazo Network
 plex.tv.Space.Science.Now.plex,Space Series
 plex.tv.Impossible.-.Quiz.Show.plex,Impossible Quiz Show
-plex.tv.Pac-12.Insider.plex,Pac-12 Insider
 plex.tv.Cheddar.plex,Cheddar USA
 plex.tv.Supermarket.Sweep.plex,Supermarket Sweep
 plex.tv.Deal.Or.No.Deal.plex,Deal or no deal
