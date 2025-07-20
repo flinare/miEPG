@@ -39,7 +39,6 @@ ESPN,ESPN en Español
 ESPN 2,ESPN 2 en Español
 ESPN 3,ESPN 3 en Español
 ESPN 4,ESPN 4 en Español
-TUDN (Estados Unidos),TUDN
 ESPN.1.nl,ESPN Holanda
 ESPN.2.nl,ESPN 2 Holanda
 ESPN.3.nl,ESPN 3 Holanda
