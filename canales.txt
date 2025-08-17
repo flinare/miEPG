@@ -43,8 +43,8 @@ ESPN.1.nl,ESPN Holanda
 ESPN.2.nl,ESPN 2 Holanda
 ESPN.3.nl,ESPN 3 Holanda
 ESPN.4.nl,ESPN 4 Holanda
-DAZN.1.de,DAZN 1 Alemania,https://iptvboss.xyz/logos/Germany/DAZN1.de.png
-DAZN.2.de,DAZN 2 Alemania,https://iptvboss.xyz/logos/Germany/DAZN2.de.png
+DE | DAZN 1,DAZN 1 Alemania,https://iptvboss.xyz/logos/Germany/DAZN1.de.png
+DE | DAZN 2,DAZN 2 Alemania,https://iptvboss.xyz/logos/Germany/DAZN2.de.png
 ORF.SPORT.+.de,ORF Sport+ Alemania,https://images.tvtoday.de/sender/small/orfsp.png
 SPORT1+.de,Sport1+ Alemania,https://images.tvtoday.de/sender/small/s1plu.png
 SPORT1.de,Sport 1 Alemania,https://images.tvtoday.de/sender/small/sport.png
@@ -54,11 +54,11 @@ Eleven.Sports.1.HD.pl,Eleven Sports 1 Polonia
 Eleven.Sports.2.HD.pl,Eleven Sports 2 Polonia
 Eleven.Sports.3.HD.pl,Eleven Sports 3 Polonia
 Eleven.Sports.4.HD.pl,Eleven Sports 4 Polonia
-CANAL+.Sport.HD.pl,Canal+ Sport Polonia
-CANAL+.Sport.2.HD.pl,Canal+ Sport 2 Polonia
-CANAL+.Sport.3.HD.pl,Canal+ Sport 3 Polonia
-CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia
-CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia
+CANAL+.Sport.HD.pl,Canal+ Sport Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport.pl.png
+CANAL+.Sport.2.HD.pl,Canal+ Sport 2 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport.pl.png
+CANAL+.Sport.3.HD.pl,Canal+ Sport 3 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport.pl.png
+CANAL+.Sport.4.HD.pl,Canal+ Sport 4 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport4.pl.png
+CANAL+.Sport.5.HD.pl,Canal+ Sport 5 Polonia,https://iptvboss.xyz/logos/Poland/CANAL%2BSport5.pl.png
 Polsat.Sport.pl,Polsat Sport
 Polsat.Sport.Extra.HD.pl,Polsat Sport Extra
 Polsat.Sport.Premium.1.pl,Polsat Sport Premium 1
@@ -150,7 +150,6 @@ Telecinco HD,Telecinco HD
 La Sexta HD,La Sexta HD
 24 Horas,24 Horas
 Discovery,Discovery
-Factoría de Ficción,Factoría de Ficción
 Historia,Historia
 M+ Ellas Vamos HD,M+ Ellas Vamos HD
 MTV España,MTV España
