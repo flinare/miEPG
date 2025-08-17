@@ -27,6 +27,33 @@ TSN2.ca,TSN2
 TSN3.ca,TSN3
 TSN4.ca,TSN4
 TSN5.ca,TSN5
+FR | beIN SPORTS 1,FR | beIN SPORTS 1
+FR | beIN SPORTS 2,FR | beIN SPORTS 2
+FR | beIN SPORTS 3,FR | beIN SPORTS 3
+FR | L`ÉQUIPE,FR | L`ÉQUIPE
+UK | Premier Sports 1,UK | Premier Sports 1
+UK | Premier Sports 2,UK | Premier Sports 2
+UK | Sky Sport Arena,UK | Sky Sport Arena
+UK | Sky Sport F1,UK | Sky Sport F1
+UK | Sky Sport Football,UK | Sky Sport Football
+UK | Sky Sport Main Event,UK | Sky Sport Main Event
+UK | Sky Sport Mix,UK | Sky Sport Mix
+UK | Sky Sport Premier League,UK | Sky Sport Premier League
+UK | TNT Sports 1,UK | TNT Sports 1
+UK | TNT Sports 2,UK | TNT Sports 2
+UK | TNT Sports 3,UK | TNT Sports 3
+UK | TNT Sports 4,UK | TNT Sports 4
+DE | DAZN 1,DAZN 1 Alemania,https://iptvboss.xyz/logos/Germany/DAZN1.de.png
+DE | DAZN 2,DAZN 2 Alemania,https://iptvboss.xyz/logos/Germany/DAZN2.de.png
+DE | SPORTDIGITAL FUSSBALL,Sport Digital Fussball Alemania
+DE | Sky Sport 1,Sky Sport 1 Alemania
+DE | Sky Sport Bundesliga,DE | Sky Sport Bundesliga
+DE | Sky Sport F1,DE | Sky Sport F1
+ORF.SPORT.+.de,ORF Sport+ Alemania,https://images.tvtoday.de/sender/small/orfsp.png
+SPORT1+.de,Sport1+ Alemania,https://images.tvtoday.de/sender/small/s1plu.png
+SPORT1.de,Sport 1 Alemania,https://images.tvtoday.de/sender/small/sport.png
+Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,http://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png
+Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,http://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
 Ziggo.Sport.nl,ZIGGO SPORT Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544009-Logo_Ziggo%20Sport_White_RGB-93f813-large-1719574308.png
 Ziggo.Sport.2.nl,ZIGGO SPORT 2 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544010-Logo_Ziggo%20Sport%202_White_RGB-11eccd-large-1719574308.png
 Ziggo.Sport.3.nl,ZIGGO SPORT 3 Holanda,https://d21buns5ku92am.cloudfront.net/69874/images/544013-Logo_Ziggo%20Sport%203_White_RGB-2f1656-large-1719574308.png
@@ -36,13 +63,6 @@ ESPN.1.nl,ESPN Holanda
 ESPN.2.nl,ESPN 2 Holanda
 ESPN.3.nl,ESPN 3 Holanda
 ESPN.4.nl,ESPN 4 Holanda
-DE | DAZN 1,DAZN 1 Alemania,https://iptvboss.xyz/logos/Germany/DAZN1.de.png
-DE | DAZN 2,DAZN 2 Alemania,https://iptvboss.xyz/logos/Germany/DAZN2.de.png
-ORF.SPORT.+.de,ORF Sport+ Alemania,https://images.tvtoday.de/sender/small/orfsp.png
-SPORT1+.de,Sport1+ Alemania,https://images.tvtoday.de/sender/small/s1plu.png
-SPORT1.de,Sport 1 Alemania,https://images.tvtoday.de/sender/small/sport.png
-Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1,http://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png
-Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2,http://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
 Eleven.Sports.1.HD.pl,Eleven Sports 1 Polonia
 Eleven.Sports.2.HD.pl,Eleven Sports 2 Polonia
 Eleven.Sports.3.HD.pl,Eleven Sports 3 Polonia
@@ -157,25 +177,4 @@ Star TVE HD,Star TVE HD
 BuenViaje, Buen Viaje
 Tennis Channel,Tennis Channel
 beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ
-DE | SPORT1+,DE | SPORT1+
-DE | SPORTDIGITAL FUSSBALL,DE | SPORTDIGITAL FUSSBALL
-DE | Sky Sport 1,Sky Sport 1 Alemania
-DE | Sky Sport Austria,DE | Sky Sport Austria
-DE | Sky Sport Bundesliga,DE | Sky Sport Bundesliga
-DE | Sky Sport F1,DE | Sky Sport F1
-FR | beIN SPORTS 1,FR | beIN SPORTS 1
-FR | beIN SPORTS 2,FR | beIN SPORTS 2
-FR | beIN SPORTS 3,FR | beIN SPORTS 3
-FR | L`ÉQUIPE,FR | L`ÉQUIPE
-UK | Premier Sports 1,UK | Premier Sports 1
-UK | Premier Sports 2,UK | Premier Sports 2
-UK | Sky Sport Arena,UK | Sky Sport Arena
-UK | Sky Sport F1,UK | Sky Sport F1
-UK | Sky Sport Football,UK | Sky Sport Football
-UK | Sky Sport Main Event,UK | Sky Sport Main Event
-UK | Sky Sport Mix,UK | Sky Sport Mix
-UK | Sky Sport Premier League,UK | Sky Sport Premier League
-UK | TNT Sports 1,UK | TNT Sports 1
-UK | TNT Sports 2,UK | TNT Sports 2
-UK | TNT Sports 3,UK | TNT Sports 3
-UK | TNT Sports 4,UK | TNT Sports 4
+
