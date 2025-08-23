@@ -42,8 +42,8 @@ UK | TNT Sports 1,UK | TNT Sports 1
 UK | TNT Sports 2,UK | TNT Sports 2
 UK | TNT Sports 3,UK | TNT Sports 3
 UK | TNT Sports 4,UK | TNT Sports 4
-DE | DAZN 1,DAZN 1 Alemania,https://iptvboss.xyz/logos/Germany/DAZN1.de.png
-DE | DAZN 2,DAZN 2 Alemania,https://iptvboss.xyz/logos/Germany/DAZN2.de.png
+DAZN.1.de,DAZN 1 Alemania,https://iptvboss.xyz/logos/Germany/DAZN1.de.png
+DAZN.2.de,DAZN 2 Alemania,https://iptvboss.xyz/logos/Germany/DAZN2.de.png
 DE | SPORTDIGITAL FUSSBALL,Sport Digital Fussball Alemania
 DE | Sky Sport 1,Sky Sport 1 Alemania
 DE | Sky Sport Bundesliga,DE | Sky Sport Bundesliga
