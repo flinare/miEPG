@@ -85,10 +85,10 @@ DAZN F1 HD,DAZN F1 HD
 FIFA+,FIFA+
 Top Barça,Top Barça
 LaLiga TV BAR HD,LaLiga TV BAR HD
-M+ LaLiga TV HD,M+ LaLiga TV HD
-M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
-M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
-M+ LaLiga TV 4,M+ LaLiga TV 4
+M+ LaLiga HD,M+ LaLiga TV HD
+M+ LaLiga 2 HD,M+ LaLiga TV 2 HD
+M+ LaLiga 3 HD,M+ LaLiga TV 3 HD
+M+ LaLiga 4,M+ LaLiga TV 4
 M+ Liga de Campeones HD,M+ Liga de Campeones HD
 M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2 HD
 M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3 HD
