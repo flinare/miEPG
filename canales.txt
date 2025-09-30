@@ -1,20 +1,20 @@
-ESPN.us,ESPN USA,https://epg.ovh/logo/ESPN.png
-ESPN2.us,ESPN 2 USA,https://epg.ovh/logo/ESPN+2.png
-ESPN.U.us,ESPN U
-ESPN Deportes,ESPN Deportes
-Fox.Sports.1.us,Fox Sports 1 USA,https://epg.ovh/logo/FOX+SPORTS.png
-Fox.Sports.2.us,Fox Sports 2 USA,https://epg.ovh/logo/FOX+SPORTS+2.png
-NBA.TV.USA.us,NBA TV,https://epg.ovh/logo/NBA+TV+HD.png
-CBS.Sports.Network.USA.us,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
-NBC.Sports.us,NBC Sports
-ABC.NEWS.us,ABC News USA
-CNN.us,CNN
-Turner.Classic.Movies.USA.us,Turner Classic Movies
-HBO.Comedy.HD.-.East.us,HBO Comedy
-HBO.-.Eastern.Feed.us,HBO USA
-HBO.2.-.Eastern.Feed.us,HBO 2 USA
-E!.Entertainment.USA.-.Eastern.Feed.us,E! Entertainment USA
-POP.-.East.us,Popstar! TV
+ESPN.HD.us2,ESPN USA,https://epg.ovh/logo/ESPN.png
+ESPN2.HD.us2,ESPN 2 USA,https://epg.ovh/logo/ESPN+2.png
+ESPN.HD.us2,ESPN U
+ESPN.Deportes.HD.us2,ESPN Deportes
+FS1.Fox.Sports.1.HD.us2,Fox Sports 1 USA,https://epg.ovh/logo/FOX+SPORTS.png
+FS2.Fox.Sports.2.HD.us2,Fox Sports 2 USA,https://epg.ovh/logo/FOX+SPORTS+2.png
+NBA.TV.HD.us2,NBA TV,https://epg.ovh/logo/NBA+TV+HD.png
+CBS.Sports.Network.HD.us2,CBS SPORTS NETWORK,https://epg.ovh/logo/CBS+SPORTS.png
+NBC.Sports.4K.us2,NBC Sports
+ABC.News.Live.us2,ABC News USA
+CNN.HD.us2,CNN
+Turner.Classic.Movies.HD.us2,Turner Classic Movies
+HBO.Comedy.HD.us2,HBO Comedy
+HBO.East.us2,HBO USA
+HBO2.HD.us2,HBO 2 USA
+E!.Entertainment.Television.HD.us2,E! Entertainment USA
+POP.HD.us2,Popstar! TV
 plex.tv.CBS.Sports.Golazo.Network.plex,CBS Sports Golazo Network
 plex.tv.Space.Science.Now.plex,Space Series
 plex.tv.Cheddar.plex,Cheddar USA
