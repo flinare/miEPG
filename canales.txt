@@ -21,11 +21,11 @@ plex.tv.Cheddar.plex,Cheddar USA
 plex.tv.Dance.Moms.by.Lifetime.plex,Dance Moms
 5f21e8a6e2f12b000755afdb,The Amazing Race
 65ea8b928145cb0008509426,UEFA Champions League
-TSN1.ca,TSN1
-TSN2.ca,TSN2
-TSN3.ca,TSN3
-TSN4.ca,TSN4
-TSN5.ca,TSN5
+TSN.1.ca2,TSN1
+TSN.2.ca2,TSN2
+TSN.3.ca2,TSN3
+TSN.4.ca2,TSN4
+TSN.5.ca2,TSN5
 FR | beIN SPORTS 1,FR | beIN SPORTS 1
 FR | beIN SPORTS 2,FR | beIN SPORTS 2
 FR | beIN SPORTS 3,FR | beIN SPORTS 3
