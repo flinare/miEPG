@@ -5,5 +5,6 @@ https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz
